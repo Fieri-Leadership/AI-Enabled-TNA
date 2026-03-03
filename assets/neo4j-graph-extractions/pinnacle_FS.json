@@ -1,0 +1,4368 @@
+[
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 1152923703630102530,
+      "start": 2,
+      "end": 22,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "next_gen_client_engagement",
+        "inferred": true,
+        "tgt_id": "technical_expertise_training",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102530",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 1152930300699869186,
+      "start": 2,
+      "end": 8,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "millennial_gen_z_cohort",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869186",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:8"
+    },
+    "m": {
+      "identity": 8,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "preferences": "digital-first, values-aligned, transparent",
+        "name": "Millennial/Gen Z Clients",
+        "label": "Cohort",
+        "entity_id": "millennial_gen_z_cohort",
+        "type": "target_demographic",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 1155182100513554434,
+      "start": 2,
+      "end": 9,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "traditional_advisors",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554434",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 1152931400211496962,
+      "start": 2,
+      "end": 41,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152931400211496962",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    },
+    "m": {
+      "identity": 41,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve next-generation client retention",
+        "label": "Objective",
+        "entity_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 1152932499723124738,
+      "start": 2,
+      "end": 19,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "generational_wealth_transfer_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124738",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:19"
+    },
+    "m": {
+      "identity": 19,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Generational Wealth Transfer Gap",
+        "context": "$30 trillion transferring from Baby Boomers to Millennials/Gen Z",
+        "challenge": "Traditional advisors struggle to connect with diverse, digitally-native younger heirs",
+        "label": "SkillGap",
+        "entity_id": "generational_wealth_transfer_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 6917540022757359647,
+      "start": 2,
+      "end": 31,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "cross_generational_relationship_building_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359647",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:31"
+    },
+    "m": {
+      "identity": 31,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Cross-generational relationship building",
+        "label": "SkillGap",
+        "entity_id": "cross_generational_relationship_building_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 6917540022757359648,
+      "start": 2,
+      "end": 32,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "digital_communication_skills_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359648",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:32"
+    },
+    "m": {
+      "identity": 32,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital communication skills",
+        "label": "SkillGap",
+        "entity_id": "digital_communication_skills_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 6917540022757359649,
+      "start": 2,
+      "end": 33,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "esg_impact_investing_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359649",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:33"
+    },
+    "m": {
+      "identity": 33,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "ESG/impact investing expertise",
+        "label": "SkillGap",
+        "entity_id": "esg_impact_investing_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "r": {
+      "identity": 6917555415920148490,
+      "start": 2,
+      "end": 10,
+      "type": "ADDRESSES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "next_gen_client_engagement",
+        "tgt_id": "generational_wealth_transfer",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917555415920148490",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:10"
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Address Generational Wealth Transfer",
+        "label": "Objective",
+        "entity_id": "generational_wealth_transfer",
+        "value": "30T",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "r": {
+      "identity": 1152923703630102531,
+      "start": 3,
+      "end": 33,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "technical_expertise_gaps",
+        "inferred": true,
+        "tgt_id": "esg_impact_investing_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102531",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:33"
+    },
+    "m": {
+      "identity": 33,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "ESG/impact investing expertise",
+        "label": "SkillGap",
+        "entity_id": "esg_impact_investing_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:33"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "r": {
+      "identity": 1155175503443787779,
+      "start": 3,
+      "end": 34,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "technical_expertise_gaps",
+        "inferred": true,
+        "tgt_id": "alternative_investments_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155175503443787779",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:34"
+    },
+    "m": {
+      "identity": 34,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Alternative investments",
+        "label": "SkillGap",
+        "entity_id": "alternative_investments_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "r": {
+      "identity": 1157427303257473027,
+      "start": 3,
+      "end": 35,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "technical_expertise_gaps",
+        "inferred": true,
+        "tgt_id": "complex_tax_strategies_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157427303257473027",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:35"
+    },
+    "m": {
+      "identity": 35,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Complex tax strategies",
+        "label": "SkillGap",
+        "entity_id": "complex_tax_strategies_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "r": {
+      "identity": 1159679103071158275,
+      "start": 3,
+      "end": 36,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "technical_expertise_gaps",
+        "inferred": true,
+        "tgt_id": "estate_planning_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159679103071158275",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:36"
+    },
+    "m": {
+      "identity": 36,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Multi-generational estate planning",
+        "label": "SkillGap",
+        "entity_id": "estate_planning_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "r": {
+      "identity": 1161930902884843523,
+      "start": 3,
+      "end": 37,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "technical_expertise_gaps",
+        "inferred": true,
+        "tgt_id": "digital_assets_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1161930902884843523",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:37"
+    },
+    "m": {
+      "identity": 37,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital assets/cryptocurrency",
+        "label": "SkillGap",
+        "entity_id": "digital_assets_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "r": {
+      "identity": 6917556515431776265,
+      "start": 3,
+      "end": 9,
+      "type": "AFFECTS_COHORT",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "technical_expertise_gaps",
+        "tgt_id": "traditional_advisors",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917556515431776265",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "r": {
+      "identity": 1152930300699869188,
+      "start": 4,
+      "end": 9,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "digital_transformation",
+        "tgt_id": "traditional_advisors",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869188",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "r": {
+      "identity": 1152931400211496964,
+      "start": 4,
+      "end": 42,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "digital_transformation",
+        "tgt_id": "digital_transformation_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152931400211496964",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42"
+    },
+    "m": {
+      "identity": 42,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Increase digital platform adoption",
+        "label": "Objective",
+        "entity_id": "digital_transformation_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "r": {
+      "identity": 1152932499723124740,
+      "start": 4,
+      "end": 20,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "digital_transformation",
+        "tgt_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124740",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    },
+    "m": {
+      "identity": 20,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital Transformation Resistance",
+        "context": "Firm invested $180M in digital infrastructure",
+        "challenge": "Technology adoption is terrible despite good infrastructure",
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "r": {
+      "identity": 6917540022757359654,
+      "start": 4,
+      "end": 38,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "digital_transformation",
+        "tgt_id": "change_management_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359654",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:38"
+    },
+    "m": {
+      "identity": 38,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Change management",
+        "label": "SkillGap",
+        "entity_id": "change_management_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "r": {
+      "identity": 1152947892885913604,
+      "start": 4,
+      "end": 11,
+      "type": "ADDRESSES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "digital_transformation",
+        "tgt_id": "fintech_disruption",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152947892885913604",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:11"
+    },
+    "m": {
+      "identity": 11,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Counter Fintech Disruption",
+        "label": "Objective",
+        "entity_id": "fintech_disruption",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance & Ethics",
+        "focus": "Ethics, integrity, understanding purpose of regulations",
+        "label": "TrainingProgramme",
+        "entity_id": "compliance_ethics",
+        "regulators": "SEC, FINRA, state",
+        "analysis_id": "1af2136e",
+        "current_hours": "18 hours/year"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    },
+    "r": {
+      "identity": 1152932499723124741,
+      "start": 5,
+      "end": 21,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "compliance_ethics",
+        "tgt_id": "compliance_culture_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124741",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:21"
+    },
+    "m": {
+      "identity": 21,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance Culture Gap",
+        "context": "Financial services highly regulated",
+        "challenge": "Checkbox training approach, view compliance as obstacle",
+        "label": "SkillGap",
+        "entity_id": "compliance_culture_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance & Ethics",
+        "focus": "Ethics, integrity, understanding purpose of regulations",
+        "label": "TrainingProgramme",
+        "entity_id": "compliance_ethics",
+        "regulators": "SEC, FINRA, state",
+        "analysis_id": "1af2136e",
+        "current_hours": "18 hours/year"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    },
+    "r": {
+      "identity": 1152947892885913605,
+      "start": 5,
+      "end": 12,
+      "type": "ADDRESSES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "compliance_ethics",
+        "tgt_id": "regulatory_complexity",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152947892885913605",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:12"
+    },
+    "m": {
+      "identity": 12,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Manage Regulatory Complexity",
+        "label": "Objective",
+        "entity_id": "regulatory_complexity",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:12"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Inclusive Leadership & DEI",
+        "label": "TrainingProgramme",
+        "entity_id": "inclusive_leadership_dei",
+        "analysis_id": "1af2136e",
+        "demographics": "78% white, 71% male"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6"
+    },
+    "r": {
+      "identity": 1152932499723124742,
+      "start": 6,
+      "end": 413,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "inclusive_leadership_dei",
+        "tgt_id": "pinnacle_financial_services",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124742",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "m": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "current_approach": "relationship-based referrals",
+        "name": "Business Development Training",
+        "label": "TrainingProgramme",
+        "entity_id": "business_development_training",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:7"
+    },
+    "r": {
+      "identity": 1152950091909169159,
+      "start": 7,
+      "end": 1,
+      "type": "TARGETS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "business_development_training",
+        "tgt_id": "business_development",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152950091909169159",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:7",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Business Development",
+        "label": "Division",
+        "entity_id": "business_development",
+        "employees": 500,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "r": {
+      "identity": 1157429502280728585,
+      "start": 9,
+      "end": 20,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "traditional_advisors",
+        "tgt_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157429502280728585",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    },
+    "m": {
+      "identity": 20,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital Transformation Resistance",
+        "context": "Firm invested $180M in digital infrastructure",
+        "challenge": "Technology adoption is terrible despite good infrastructure",
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "r": {
+      "identity": 1152925902653358089,
+      "start": 9,
+      "end": 31,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "traditional_advisors",
+        "tgt_id": "cross_generational_relationship_building_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152925902653358089",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:31"
+    },
+    "m": {
+      "identity": 31,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Cross-generational relationship building",
+        "label": "SkillGap",
+        "entity_id": "cross_generational_relationship_building_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "r": {
+      "identity": 1155177702467043337,
+      "start": 9,
+      "end": 32,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "traditional_advisors",
+        "tgt_id": "digital_communication_skills_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155177702467043337",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:32"
+    },
+    "m": {
+      "identity": 32,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital communication skills",
+        "label": "SkillGap",
+        "entity_id": "digital_communication_skills_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "notes": "DEI champion, driving change",
+        "name": "Rebecca Martinez",
+        "label": "Person",
+        "entity_id": "rebecca_martinez",
+        "title": "Chief Talent Officer",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:15"
+    },
+    "r": {
+      "identity": 6917558714455031838,
+      "start": 15,
+      "end": 30,
+      "type": "SUBMITTED",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "rebecca_martinez",
+        "tgt_id": "pinnacle_training_needs_assessment",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917558714455031838",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:15",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:30"
+    },
+    "m": {
+      "identity": 30,
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "date": "January 21, 2026",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Pinnacle Financial Services - Training Needs Assessment",
+        "label": "Document",
+        "entity_id": "pinnacle_training_needs_assessment",
+        "type": "questionnaire",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:30"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "notes": "Traditional, some resistance to change",
+        "name": "David Chen",
+        "label": "Person",
+        "entity_id": "david_chen",
+        "title": "Head of Wealth Management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:16"
+    },
+    "r": {
+      "identity": 6917544420803870738,
+      "start": 16,
+      "end": 18,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "david_chen",
+        "tgt_id": "wealth_management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917544420803870738",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:16",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:18"
+    },
+    "m": {
+      "identity": 18,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Wealth Management",
+        "label": "Division",
+        "entity_id": "wealth_management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:18"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Wealth Management",
+        "label": "Division",
+        "entity_id": "wealth_management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:18"
+    },
+    "r": {
+      "identity": 1152923703630102546,
+      "start": 18,
+      "end": 413,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "wealth_management",
+        "tgt_id": "pinnacle_financial_services",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102546",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:18",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "m": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Generational Wealth Transfer Gap",
+        "context": "$30 trillion transferring from Baby Boomers to Millennials/Gen Z",
+        "challenge": "Traditional advisors struggle to connect with diverse, digitally-native younger heirs",
+        "label": "SkillGap",
+        "entity_id": "generational_wealth_transfer_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:19"
+    },
+    "r": {
+      "identity": 1152923703630102547,
+      "start": 19,
+      "end": 31,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "generational_wealth_transfer_gap",
+        "inferred": true,
+        "tgt_id": "cross_generational_relationship_building_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102547",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:19",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:31"
+    },
+    "m": {
+      "identity": 31,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Cross-generational relationship building",
+        "label": "SkillGap",
+        "entity_id": "cross_generational_relationship_building_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:31"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital Transformation Resistance",
+        "context": "Firm invested $180M in digital infrastructure",
+        "challenge": "Technology adoption is terrible despite good infrastructure",
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    },
+    "r": {
+      "identity": 1152923703630102548,
+      "start": 20,
+      "end": 32,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "digital_transformation_resistance",
+        "inferred": true,
+        "tgt_id": "digital_communication_skills_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102548",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:32"
+    },
+    "m": {
+      "identity": 32,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital communication skills",
+        "label": "SkillGap",
+        "entity_id": "digital_communication_skills_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:32"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital Transformation Resistance",
+        "context": "Firm invested $180M in digital infrastructure",
+        "challenge": "Technology adoption is terrible despite good infrastructure",
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    },
+    "r": {
+      "identity": 1155175503443787796,
+      "start": 20,
+      "end": 38,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "digital_transformation_resistance",
+        "inferred": true,
+        "tgt_id": "change_management_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155175503443787796",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:38"
+    },
+    "m": {
+      "identity": 38,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Change management",
+        "label": "SkillGap",
+        "entity_id": "change_management_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:38"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 1152930300699869206,
+      "start": 22,
+      "end": 9,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "traditional_advisors",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869206",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 1152931400211496982,
+      "start": 22,
+      "end": 43,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "revenue_growth_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152931400211496982",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:43"
+    },
+    "m": {
+      "identity": 43,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Generate revenue from new capabilities",
+        "label": "Objective",
+        "entity_id": "revenue_growth_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 1152932499723124758,
+      "start": 22,
+      "end": 3,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124758",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 6917540022757359650,
+      "start": 22,
+      "end": 34,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "alternative_investments_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359650",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:34"
+    },
+    "m": {
+      "identity": 34,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Alternative investments",
+        "label": "SkillGap",
+        "entity_id": "alternative_investments_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:34"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 6917540022757359651,
+      "start": 22,
+      "end": 35,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "complex_tax_strategies_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359651",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:35"
+    },
+    "m": {
+      "identity": 35,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Complex tax strategies",
+        "label": "SkillGap",
+        "entity_id": "complex_tax_strategies_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:35"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 6917540022757359652,
+      "start": 22,
+      "end": 36,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "estate_planning_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359652",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:36"
+    },
+    "m": {
+      "identity": 36,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Multi-generational estate planning",
+        "label": "SkillGap",
+        "entity_id": "estate_planning_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:36"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "r": {
+      "identity": 6917540022757359653,
+      "start": 22,
+      "end": 37,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "technical_expertise_training",
+        "tgt_id": "digital_assets_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359653",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:37"
+    },
+    "m": {
+      "identity": 37,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital assets/cryptocurrency",
+        "label": "SkillGap",
+        "entity_id": "digital_assets_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:37"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "62%",
+        "name": "Next-Gen Client Retention",
+        "label": "KPI",
+        "entity_id": "client_retention_kpi",
+        "analysis_id": "1af2136e",
+        "target": "85%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:23"
+    },
+    "r": {
+      "identity": 1152933599234752535,
+      "start": 23,
+      "end": 2,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "client_retention_kpi",
+        "tgt_id": "next_gen_client_engagement",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752535",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:23",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "62%",
+        "name": "Next-Gen Client Retention",
+        "label": "KPI",
+        "entity_id": "client_retention_kpi",
+        "analysis_id": "1af2136e",
+        "target": "85%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:23"
+    },
+    "r": {
+      "identity": 1155185399048437783,
+      "start": 23,
+      "end": 41,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "client_retention_kpi",
+        "inferred": true,
+        "tgt_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048437783",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:23",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    },
+    "m": {
+      "identity": 41,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve next-generation client retention",
+        "label": "Objective",
+        "entity_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Organic Growth Rate",
+        "label": "KPI",
+        "entity_id": "revenue_growth_kpi",
+        "analysis_id": "1af2136e",
+        "target": "+$45M annually"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:24"
+    },
+    "r": {
+      "identity": 1152933599234752536,
+      "start": 24,
+      "end": 22,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "revenue_growth_kpi",
+        "tgt_id": "technical_expertise_training",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752536",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:24",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Organic Growth Rate",
+        "label": "KPI",
+        "entity_id": "revenue_growth_kpi",
+        "analysis_id": "1af2136e",
+        "target": "+$45M annually"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:24"
+    },
+    "r": {
+      "identity": 1155185399048437784,
+      "start": 24,
+      "end": 43,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "revenue_growth_kpi",
+        "inferred": true,
+        "tgt_id": "revenue_growth_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048437784",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:24",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:43"
+    },
+    "m": {
+      "identity": 43,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Generate revenue from new capabilities",
+        "label": "Objective",
+        "entity_id": "revenue_growth_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:43"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "45%",
+        "name": "Digital platform adoption",
+        "label": "KPI",
+        "entity_id": "digital_adoption_kpi",
+        "analysis_id": "1af2136e",
+        "target": "90%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:25"
+    },
+    "r": {
+      "identity": 1152933599234752537,
+      "start": 25,
+      "end": 4,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "digital_adoption_kpi",
+        "tgt_id": "digital_transformation",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752537",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:25",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "45%",
+        "name": "Digital platform adoption",
+        "label": "KPI",
+        "entity_id": "digital_adoption_kpi",
+        "analysis_id": "1af2136e",
+        "target": "90%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:25"
+    },
+    "r": {
+      "identity": 1155185399048437785,
+      "start": 25,
+      "end": 42,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "digital_adoption_kpi",
+        "inferred": true,
+        "tgt_id": "digital_transformation_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048437785",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:25",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42"
+    },
+    "m": {
+      "identity": 42,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Increase digital platform adoption",
+        "label": "Objective",
+        "entity_id": "digital_transformation_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Regulatory Violations",
+        "label": "KPI",
+        "entity_id": "compliance_kpi",
+        "analysis_id": "1af2136e",
+        "target": "Zero violations (currently 2-3 minor findings per year)"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:26"
+    },
+    "r": {
+      "identity": 1152933599234752538,
+      "start": 26,
+      "end": 5,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "compliance_kpi",
+        "tgt_id": "compliance_ethics",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752538",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:26",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance & Ethics",
+        "focus": "Ethics, integrity, understanding purpose of regulations",
+        "label": "TrainingProgramme",
+        "entity_id": "compliance_ethics",
+        "regulators": "SEC, FINRA, state",
+        "analysis_id": "1af2136e",
+        "current_hours": "18 hours/year"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Diverse Representation",
+        "label": "KPI",
+        "entity_id": "diversity_kpi",
+        "analysis_id": "1af2136e",
+        "target": "Increase from 29% to 50% over 3 years"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:27"
+    },
+    "r": {
+      "identity": 1152933599234752539,
+      "start": 27,
+      "end": 2,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "diversity_kpi",
+        "tgt_id": "next_gen_client_engagement",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752539",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:27",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Employee Engagement",
+        "label": "KPI",
+        "entity_id": "engagement_kpi",
+        "analysis_id": "1af2136e",
+        "target": "Improve from 68% to 80%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:28"
+    },
+    "r": {
+      "identity": 1152933599234752540,
+      "start": 28,
+      "end": 4,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "engagement_kpi",
+        "tgt_id": "digital_transformation",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752540",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:28",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "amount": "$5.2M",
+        "year": "2026",
+        "name": "FY 2026 Training Budget",
+        "timeline": "Q1: Design, Q2: Pilot, Q3-Q4: Scale implementation",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29"
+    },
+    "r": {
+      "identity": 1152928101676613661,
+      "start": 29,
+      "end": 2,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "training_budget_2026",
+        "tgt_id": "next_gen_client_engagement",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152928101676613661",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "amount": "$5.2M",
+        "year": "2026",
+        "name": "FY 2026 Training Budget",
+        "timeline": "Q1: Design, Q2: Pilot, Q3-Q4: Scale implementation",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29"
+    },
+    "r": {
+      "identity": 1157431701303984157,
+      "start": 29,
+      "end": 4,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "training_budget_2026",
+        "tgt_id": "digital_transformation",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157431701303984157",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "amount": "$5.2M",
+        "year": "2026",
+        "name": "FY 2026 Training Budget",
+        "timeline": "Q1: Design, Q2: Pilot, Q3-Q4: Scale implementation",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29"
+    },
+    "r": {
+      "identity": 1159683501117669405,
+      "start": 29,
+      "end": 5,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "training_budget_2026",
+        "tgt_id": "compliance_ethics",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159683501117669405",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance & Ethics",
+        "focus": "Ethics, integrity, understanding purpose of regulations",
+        "label": "TrainingProgramme",
+        "entity_id": "compliance_ethics",
+        "regulators": "SEC, FINRA, state",
+        "analysis_id": "1af2136e",
+        "current_hours": "18 hours/year"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "amount": "$5.2M",
+        "year": "2026",
+        "name": "FY 2026 Training Budget",
+        "timeline": "Q1: Design, Q2: Pilot, Q3-Q4: Scale implementation",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29"
+    },
+    "r": {
+      "identity": 1155179901490298909,
+      "start": 29,
+      "end": 22,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "training_budget_2026",
+        "tgt_id": "technical_expertise_training",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155179901490298909",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    },
+    "m": {
+      "identity": 22,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Technical Expertise Training",
+        "focus": "Alternative investments, tax strategies, estate planning, ESG, cryptocurrency",
+        "label": "TrainingProgramme",
+        "entity_id": "technical_expertise_training",
+        "priority": "2",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:22"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Advisor satisfaction with training",
+        "label": "KPI",
+        "entity_id": "advisor_satisfaction_kpi",
+        "analysis_id": "1af2136e",
+        "target": "80%+ NPS"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:39"
+    },
+    "r": {
+      "identity": 1155185399048437799,
+      "start": 39,
+      "end": 44,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "advisor_satisfaction_kpi",
+        "inferred": true,
+        "tgt_id": "advisor_satisfaction_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048437799",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:39",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:44"
+    },
+    "m": {
+      "identity": 44,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve advisor satisfaction with training",
+        "label": "Objective",
+        "entity_id": "advisor_satisfaction_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:44"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "88 NPS",
+        "name": "Client Satisfaction",
+        "label": "KPI",
+        "entity_id": "client_satisfaction_kpi",
+        "analysis_id": "1af2136e",
+        "target": "95+ NPS"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:40"
+    },
+    "r": {
+      "identity": 1152933599234752552,
+      "start": 40,
+      "end": 41,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "client_satisfaction_kpi",
+        "inferred": true,
+        "tgt_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752552",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:40",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    },
+    "m": {
+      "identity": 41,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve next-generation client retention",
+        "label": "Objective",
+        "entity_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve next-generation client retention",
+        "label": "Objective",
+        "entity_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    },
+    "r": {
+      "identity": 1152923703630102569,
+      "start": 41,
+      "end": 10,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "client_retention_objective",
+        "inferred": true,
+        "tgt_id": "generational_wealth_transfer",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102569",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:10"
+    },
+    "m": {
+      "identity": 10,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Address Generational Wealth Transfer",
+        "label": "Objective",
+        "entity_id": "generational_wealth_transfer",
+        "value": "30T",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:10"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve next-generation client retention",
+        "label": "Objective",
+        "entity_id": "client_retention_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41"
+    },
+    "r": {
+      "identity": 1152933599234752553,
+      "start": 41,
+      "end": 23,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "client_retention_objective",
+        "tgt_id": "client_retention_kpi",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752553",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:41",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:23"
+    },
+    "m": {
+      "identity": 23,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "62%",
+        "name": "Next-Gen Client Retention",
+        "label": "KPI",
+        "entity_id": "client_retention_kpi",
+        "analysis_id": "1af2136e",
+        "target": "85%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:23"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Increase digital platform adoption",
+        "label": "Objective",
+        "entity_id": "digital_transformation_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42"
+    },
+    "r": {
+      "identity": 1152923703630102570,
+      "start": 42,
+      "end": 11,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "digital_transformation_objective",
+        "inferred": true,
+        "tgt_id": "fintech_disruption",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102570",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:11"
+    },
+    "m": {
+      "identity": 11,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Counter Fintech Disruption",
+        "label": "Objective",
+        "entity_id": "fintech_disruption",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:11"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Increase digital platform adoption",
+        "label": "Objective",
+        "entity_id": "digital_transformation_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42"
+    },
+    "r": {
+      "identity": 1152933599234752554,
+      "start": 42,
+      "end": 25,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "digital_transformation_objective",
+        "tgt_id": "digital_adoption_kpi",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752554",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:42",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:25"
+    },
+    "m": {
+      "identity": 25,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "current": "45%",
+        "name": "Digital platform adoption",
+        "label": "KPI",
+        "entity_id": "digital_adoption_kpi",
+        "analysis_id": "1af2136e",
+        "target": "90%+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:25"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Generate revenue from new capabilities",
+        "label": "Objective",
+        "entity_id": "revenue_growth_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:43"
+    },
+    "r": {
+      "identity": 1152933599234752555,
+      "start": 43,
+      "end": 24,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "revenue_growth_objective",
+        "tgt_id": "revenue_growth_kpi",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752555",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:43",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:24"
+    },
+    "m": {
+      "identity": 24,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Organic Growth Rate",
+        "label": "KPI",
+        "entity_id": "revenue_growth_kpi",
+        "analysis_id": "1af2136e",
+        "target": "+$45M annually"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:24"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Improve advisor satisfaction with training",
+        "label": "Objective",
+        "entity_id": "advisor_satisfaction_objective",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:44"
+    },
+    "r": {
+      "identity": 1152933599234752556,
+      "start": 44,
+      "end": 39,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "advisor_satisfaction_objective",
+        "tgt_id": "advisor_satisfaction_kpi",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152933599234752556",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:44",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:39"
+    },
+    "m": {
+      "identity": 39,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Advisor satisfaction with training",
+        "label": "KPI",
+        "entity_id": "advisor_satisfaction_kpi",
+        "analysis_id": "1af2136e",
+        "target": "80%+ NPS"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:39"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1155174403932160413,
+      "start": 413,
+      "end": 9,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "traditional_advisors",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155174403932160413",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    },
+    "m": {
+      "identity": 9,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_age": 54,
+        "preference": "face-to-face",
+        "name": "Traditional Advisors",
+        "label": "Cohort",
+        "entity_id": "traditional_advisors",
+        "analysis_id": "1af2136e",
+        "average_age": 54
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:9"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917530127152709646,
+      "start": 413,
+      "end": 14,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "jonathan_sterling",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709646",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:14"
+    },
+    "m": {
+      "identity": 14,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "notes": "Strategic thinker, concerned about relevance",
+        "name": "Jonathan Sterling",
+        "label": "Person",
+        "entity_id": "jonathan_sterling",
+        "title": "CEO",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:14"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917530127152709647,
+      "start": 413,
+      "end": 15,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "rebecca_martinez",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709647",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:15"
+    },
+    "m": {
+      "identity": 15,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "notes": "DEI champion, driving change",
+        "name": "Rebecca Martinez",
+        "label": "Person",
+        "entity_id": "rebecca_martinez",
+        "title": "Chief Talent Officer",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:15"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917530127152709648,
+      "start": 413,
+      "end": 16,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "david_chen",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709648",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:16"
+    },
+    "m": {
+      "identity": 16,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "notes": "Traditional, some resistance to change",
+        "name": "David Chen",
+        "label": "Person",
+        "entity_id": "david_chen",
+        "title": "Head of Wealth Management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:16"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917530127152709649,
+      "start": 413,
+      "end": 17,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "sarah_thompson",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709649",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:17"
+    },
+    "m": {
+      "identity": 17,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "notes": "Frustrated by slow adoption",
+        "name": "Sarah Thompson",
+        "label": "Person",
+        "entity_id": "sarah_thompson",
+        "title": "Chief Digital Officer",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:17"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1152924803141730717,
+      "start": 413,
+      "end": 414,
+      "type": "LOCATED_IN",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "new_york_city",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152924803141730717",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:414"
+    },
+    "m": {
+      "identity": 414,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "country": "USA",
+        "name": "New York City",
+        "label": "Location",
+        "entity_id": "new_york_city",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:414"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917533425687592963,
+      "start": 413,
+      "end": 3,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687592963",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    },
+    "m": {
+      "identity": 3,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Technical Expertise Gaps",
+        "context": "Wealth management becoming more complex",
+        "description": "Complex products - alternatives, crypto, ESG, tax strategies",
+        "challenge": "Many advisors are generalists without deep technical expertise",
+        "label": "SkillGap",
+        "entity_id": "technical_expertise_gaps",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:3"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917533425687592979,
+      "start": 413,
+      "end": 19,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "generational_wealth_transfer_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687592979",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:19"
+    },
+    "m": {
+      "identity": 19,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Generational Wealth Transfer Gap",
+        "context": "$30 trillion transferring from Baby Boomers to Millennials/Gen Z",
+        "challenge": "Traditional advisors struggle to connect with diverse, digitally-native younger heirs",
+        "label": "SkillGap",
+        "entity_id": "generational_wealth_transfer_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:19"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917533425687592980,
+      "start": 413,
+      "end": 20,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687592980",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    },
+    "m": {
+      "identity": 20,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Digital Transformation Resistance",
+        "context": "Firm invested $180M in digital infrastructure",
+        "challenge": "Technology adoption is terrible despite good infrastructure",
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_resistance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:20"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917533425687592981,
+      "start": 413,
+      "end": 21,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "compliance_culture_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687592981",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:21"
+    },
+    "m": {
+      "identity": 21,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance Culture Gap",
+        "context": "Financial services highly regulated",
+        "challenge": "Checkbox training approach, view compliance as obstacle",
+        "label": "SkillGap",
+        "entity_id": "compliance_culture_gap",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:21"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1152927002164986269,
+      "start": 413,
+      "end": 29,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "training_budget_2026",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986269",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29"
+    },
+    "m": {
+      "identity": 29,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "amount": "$5.2M",
+        "year": "2026",
+        "name": "FY 2026 Training Budget",
+        "timeline": "Q1: Design, Q2: Pilot, Q3-Q4: Scale implementation",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:29"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1152930300699869597,
+      "start": 413,
+      "end": 8,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "millennial_gen_z_cohort",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869597",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:8"
+    },
+    "m": {
+      "identity": 8,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "preferences": "digital-first, values-aligned, transparent",
+        "name": "Millennial/Gen Z Clients",
+        "label": "Cohort",
+        "entity_id": "millennial_gen_z_cohort",
+        "type": "target_demographic",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:8"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1152935798258008477,
+      "start": 413,
+      "end": 2,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "next_gen_client_engagement",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008477",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    },
+    "m": {
+      "identity": 2,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "name": "Next-Gen Client Engagement",
+        "focus": "Digital communication, values-based advising, cross-generational relationship building",
+        "risk": "$200B+ of AUM at risk",
+        "label": "TrainingProgramme",
+        "entity_id": "next_gen_client_engagement",
+        "priority": "1",
+        "analysis_id": "1af2136e",
+        "status": "critical"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:2"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1155187598071693725,
+      "start": 413,
+      "end": 4,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "digital_transformation",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155187598071693725",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    },
+    "m": {
+      "identity": 4,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "tech_investment": "$180M",
+        "name": "Digital Transformation",
+        "investment": "180M",
+        "focus": "Change management, digital skills, technology as client service enabler",
+        "challenge": "slow adoption",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_transformation",
+        "priority": "3",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:4"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1157439397885378973,
+      "start": 413,
+      "end": 5,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "compliance_ethics",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157439397885378973",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    },
+    "m": {
+      "identity": 5,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Compliance & Ethics",
+        "focus": "Ethics, integrity, understanding purpose of regulations",
+        "label": "TrainingProgramme",
+        "entity_id": "compliance_ethics",
+        "regulators": "SEC, FINRA, state",
+        "analysis_id": "1af2136e",
+        "current_hours": "18 hours/year"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:5"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1159691197699064221,
+      "start": 413,
+      "end": 6,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "inclusive_leadership_dei",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159691197699064221",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6"
+    },
+    "m": {
+      "identity": 6,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Inclusive Leadership & DEI",
+        "label": "TrainingProgramme",
+        "entity_id": "inclusive_leadership_dei",
+        "analysis_id": "1af2136e",
+        "demographics": "78% white, 71% male"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 1161942997512749469,
+      "start": 413,
+      "end": 7,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "business_development_training",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1161942997512749469",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:7"
+    },
+    "m": {
+      "identity": 7,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "current_approach": "relationship-based referrals",
+        "name": "Business Development Training",
+        "label": "TrainingProgramme",
+        "entity_id": "business_development_training",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:7"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498496,
+      "start": 413,
+      "end": 0,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "corporate_functions",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498496",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:0"
+    },
+    "m": {
+      "identity": 0,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Corporate Functions",
+        "label": "Division",
+        "entity_id": "corporate_functions",
+        "employees": 420,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:0"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498497,
+      "start": 413,
+      "end": 1,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "business_development",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498497",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1"
+    },
+    "m": {
+      "identity": 1,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Business Development",
+        "label": "Division",
+        "entity_id": "business_development",
+        "employees": 500,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498911,
+      "start": 413,
+      "end": 415,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "wealth_advisors_private_bankers",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498911",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:415"
+    },
+    "m": {
+      "identity": 415,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Wealth Advisors & Private Bankers",
+        "label": "Division",
+        "entity_id": "wealth_advisors_private_bankers",
+        "employees": 850,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:415"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498912,
+      "start": 413,
+      "end": 416,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "investment_management_research",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498912",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:416"
+    },
+    "m": {
+      "identity": 416,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Investment Management & Research",
+        "label": "Division",
+        "entity_id": "investment_management_research",
+        "employees": 620,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:416"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498913,
+      "start": 413,
+      "end": 417,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "client_service_operations",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498913",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:417"
+    },
+    "m": {
+      "identity": 417,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Client Service & Operations",
+        "label": "Division",
+        "entity_id": "client_service_operations",
+        "employees": 980,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:417"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498914,
+      "start": 413,
+      "end": 418,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "technology_digital",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498914",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:418"
+    },
+    "m": {
+      "identity": 418,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Technology & Digital",
+        "label": "Division",
+        "entity_id": "technology_digital",
+        "employees": 450,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:418"
+    }
+  },
+  {
+    "n": {
+      "identity": 413,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "founded": 1952,
+        "industry": "Financial Services",
+        "label": "Company",
+        "entity_id": "pinnacle_financial_services",
+        "type": "financial_services",
+        "client_minimum": "10M investable assets",
+        "analysis_id": "1af2136e",
+        "source_doc": "Pinnacle_Questionnaire.html",
+        "avg_client_aum": "85M",
+        "name": "Pinnacle Financial Services",
+        "aum": "$200B+",
+        "employees": 4200,
+        "budget": "$5.2M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413"
+    },
+    "r": {
+      "identity": 6917545520315498915,
+      "start": 413,
+      "end": 419,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "src_id": "pinnacle_financial_services",
+        "tgt_id": "risk_compliance",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498915",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:413",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:419"
+    },
+    "m": {
+      "identity": 419,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Risk & Compliance",
+        "label": "Division",
+        "entity_id": "risk_compliance",
+        "employees": 380,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:419"
+    }
+  },
+  {
+    "n": {
+      "identity": 415,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Company_Background.docx",
+        "name": "Wealth Advisors & Private Bankers",
+        "label": "Division",
+        "entity_id": "wealth_advisors_private_bankers",
+        "employees": 850,
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:415"
+    },
+    "r": {
+      "identity": 1152923703630102943,
+      "start": 415,
+      "end": 18,
+      "type": "BELONGS_TO",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "wealth_advisors_private_bankers",
+        "inferred": true,
+        "tgt_id": "wealth_management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152923703630102943",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:415",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:18"
+    },
+    "m": {
+      "identity": 18,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "Pinnacle_Discovery_Notes.json",
+        "name": "Wealth Management",
+        "label": "Division",
+        "entity_id": "wealth_management",
+        "analysis_id": "1af2136e"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:18"
+    }
+  }
+]

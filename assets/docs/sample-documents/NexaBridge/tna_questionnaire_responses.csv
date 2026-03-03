@@ -1,0 +1,88 @@
+Training Needs Analysis - Staff Questionnaire Responses,,,,,,,,,
+NexaBridge Technologies PLC,,,,,,,,,
+Collected: February 2025 | Total Respondents: 147 of 195 invited,,,,,,,,,
+,,,,,,,,,
+Section A: Respondent Profile,,,,,,,,,
+Staff ID,Name,Division,Role Level,Years at NexaBridge,Manager Name,Location,Contract Type,Age Band,Gender
+ENG-012,James Whitmore,Engineering & Delivery,Senior Engineer,4,Dhruv Patel,Manchester,Permanent,30-39,Male
+ENG-019,Amara Nwosu,Engineering & Delivery,Mid-Level Engineer,2,Dhruv Patel,Manchester,Permanent,25-29,Female
+ENG-031,Callum Forsyth,Engineering & Delivery,Team Lead,6,Sarah Lennox,Edinburgh,Permanent,35-44,Male
+ENG-044,Priya Mehta,Engineering & Delivery,Senior Engineer,3,Sarah Lennox,Edinburgh,Permanent,30-39,Female
+ENG-055,Tom Barlow,Engineering & Delivery,Junior Engineer,1,Dhruv Patel,Manchester,Graduate,22-24,Male
+DAI-007,Nina Schulze,Data & AI Practice,Data Engineer,5,Marcus Delgado,London,Permanent,30-39,Female
+DAI-014,Olumide Afolabi,Data & AI Practice,ML Engineer,3,Marcus Delgado,London,Permanent,25-29,Male
+DAI-022,Fatima Al-Rashid,Data & AI Practice,Senior Data Scientist,7,Marcus Delgado,London,Permanent,35-44,Female
+DAI-033,Hiroshi Tanaka,Data & AI Practice,Analytics Manager,9,Marcus Delgado,London,Permanent,40-49,Male
+CS-008,Rachel Evans,Client Services,Account Manager,5,Claire Drummond,Manchester,Permanent,30-39,Female
+CS-015,Adebayo Fashola,Client Services,Solutions Architect,8,Claire Drummond,Manchester,Permanent,35-44,Male
+CS-027,Emma Tait,Client Services,Client Success Lead,4,Claire Drummond,Edinburgh,Permanent,28-34,Female
+CF-003,Leonard Hughes,Corporate Functions,HR Business Partner,6,Sandra Okafor,Manchester,Permanent,40-49,Male
+CF-011,Blessing Chukwu,Corporate Functions,Finance Manager,10,Robert Ashworth,London,Permanent,45-54,Female
+,,,,,,,,,
+Section B: Self-Assessment of Current Skills (1=Very Low  5=Expert),,,,,,,,,
+Staff ID,Cloud Computing (AWS/Azure/GCP),Kubernetes & Containers,Python/Data Scripting,AI & Machine Learning,Agile/Scrum,Leadership & People Mgmt,Client Communication,Commercial Awareness,Data Analysis,Cybersecurity Awareness
+ENG-012,4,3,4,2,4,2,3,2,3,3
+ENG-019,3,2,3,1,3,1,2,2,2,3
+ENG-031,4,4,3,2,5,3,4,3,3,4
+ENG-044,5,4,5,3,4,2,3,2,4,3
+ENG-055,2,1,3,1,2,1,2,1,2,2
+DAI-007,4,3,5,4,3,2,2,2,5,3
+DAI-014,3,2,5,4,3,2,2,2,5,2
+DAI-022,4,3,5,5,4,3,3,3,5,3
+DAI-033,3,2,4,4,4,4,4,4,5,3
+CS-008,2,1,2,2,3,3,5,4,3,3
+CS-015,3,2,3,3,4,4,5,5,4,4
+CS-027,2,1,2,2,3,3,5,4,3,3
+CF-003,2,1,2,2,3,4,4,3,3,3
+CF-011,2,1,2,1,2,3,3,4,4,3
+,,,,,,,,,
+Section C: Priority Training Areas (Ranked 1=Highest Priority),,,,,,,,,
+Staff ID,Cloud & Infrastructure,AI & Data Literacy,Leadership Development,Agile & Delivery Methods,Client & Commercial Skills,Cybersecurity,Project Management,Communication & Presentation,Technical Certifications,Wellbeing & Resilience
+ENG-012,1,3,5,2,6,7,4,8,3,10
+ENG-019,2,4,8,1,7,6,3,5,2,9
+ENG-031,3,5,1,2,4,8,6,7,3,9
+ENG-044,1,3,7,2,5,6,4,8,2,10
+ENG-055,2,5,9,1,7,6,3,8,2,10
+DAI-007,4,1,6,3,7,5,8,9,2,10
+DAI-014,5,1,7,3,6,4,8,9,2,10
+DAI-022,4,1,5,3,6,7,8,9,2,10
+DAI-033,6,2,1,4,3,7,5,8,9,10
+CS-008,7,5,4,3,1,8,6,2,9,10
+CS-015,6,4,3,2,1,7,5,8,9,10
+CS-027,7,5,4,3,1,8,6,2,9,10
+CF-003,8,5,2,4,6,7,3,9,10,1
+CF-011,9,6,3,5,7,8,2,10,9,4
+,,,,,,,,,
+Section D: Preferred Learning Formats (Multi-select Y/N),,,,,,,,,
+Staff ID,In-Person Workshops,Online Self-Paced,Live Virtual Classroom,Coaching / Mentoring,On-the-Job Projects,Peer Learning Circles,External Conferences,Certification Programmes,Lunch & Learns,Job Shadowing
+ENG-012,Y,Y,N,Y,Y,N,N,Y,N,N
+ENG-019,N,Y,Y,N,Y,N,N,Y,Y,N
+ENG-031,Y,N,Y,Y,Y,N,Y,N,N,Y
+ENG-044,Y,Y,N,N,Y,N,N,Y,N,N
+ENG-055,N,Y,Y,N,Y,N,N,Y,Y,N
+DAI-007,N,Y,Y,Y,Y,N,N,Y,N,N
+DAI-014,N,Y,Y,N,Y,Y,N,Y,Y,N
+DAI-022,Y,Y,N,Y,Y,N,Y,N,N,N
+DAI-033,Y,N,Y,Y,N,Y,Y,N,Y,N
+CS-008,Y,N,Y,Y,N,Y,Y,N,Y,N
+CS-015,Y,N,N,Y,Y,N,Y,N,Y,Y
+CS-027,Y,N,Y,Y,N,Y,Y,N,Y,N
+CF-003,Y,Y,Y,Y,N,N,N,N,Y,Y
+CF-011,Y,Y,N,Y,N,N,N,N,Y,Y
+,,,,,,,,,
+Section E: Free Text - What one skill would most improve your performance?,,,,,,,,,
+Staff ID,Response,,,,,,,,,
+ENG-012,"I'd love to get a proper AWS Solutions Architect cert. We keep losing bids because clients don't see us as cloud-credible.",,,,,,,,,
+ENG-019,"Understanding how to use AI tools in my day-to-day coding workflow. I feel like I'm falling behind.",,,,,,,,,
+ENG-031,"People management skills. I became a team lead overnight with no training whatsoever. I manage 8 people and have no idea how to do performance reviews.",,,,,,,,,
+ENG-044,"Kubernetes — our projects are moving to container orchestration and I need to be ahead of it.",,,,,,,,,
+ENG-055,"Python — I came from a .NET background and the team uses Python for everything.",,,,,,,,,
+DAI-007,"MLOps and how to productionise ML models. I can build models but can't get them into production reliably.",,,,,,,,,
+DAI-014,"Explainable AI — clients are asking about model transparency and I don't know how to answer them confidently.",,,,,,,,,
+DAI-022,"Stakeholder communication — I'm a good data scientist but I struggle to explain findings to non-technical execs.",,,,,,,,,
+DAI-033,"Building a data culture. I manage a team of analysts but the rest of the business doesn't trust or use data in their decisions.",,,,,,,,,
+CS-008,"Financial literacy and understanding P&L so I can have better commercial conversations with clients.",,,,,,,,,
+CS-015,"Facilitation and running workshops. I need to run discovery workshops with enterprise clients and I'm not confident.",,,,,,,,,
+CS-027,"Negotiation skills — renewal conversations with difficult clients are my weak point.",,,,,,,,,
+CF-003,"Coaching skills — I want to move beyond advisory HR into proper coaching so I can support the leadership development programme.",,,,,,,,,
+CF-011,"Advanced Excel and financial modelling — our current reporting is too manual.",,,,,,,,,

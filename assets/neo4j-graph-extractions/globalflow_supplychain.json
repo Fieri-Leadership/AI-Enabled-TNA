@@ -1,0 +1,5418 @@
+[
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917532326175965549,
+      "start": 352,
+      "end": 365,
+      "type": "LOCATED_IN",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "rotterdam",
+        "type": "Global HQ",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917532326175965549",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:365"
+    },
+    "m": {
+      "identity": 365,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Rotterdam, Netherlands",
+        "label": "Location",
+        "entity_id": "rotterdam",
+        "type": "Global HQ",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:365"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917532326175965550,
+      "start": 352,
+      "end": 366,
+      "type": "LOCATED_IN",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "singapore",
+        "type": "Regional HQ",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917532326175965550",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:366"
+    },
+    "m": {
+      "identity": 366,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Singapore",
+        "label": "Location",
+        "entity_id": "singapore",
+        "type": "Regional HQ",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:366"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917532326175965551,
+      "start": 352,
+      "end": 367,
+      "type": "LOCATED_IN",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "chicago",
+        "type": "Regional HQ",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917532326175965551",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:367"
+    },
+    "m": {
+      "identity": 367,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Chicago",
+        "label": "Location",
+        "entity_id": "chicago",
+        "type": "Regional HQ",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:367"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917532326175965595,
+      "start": 352,
+      "end": 411,
+      "type": "LOCATED_IN",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "warehouse_locations",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917532326175965595",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:411"
+    },
+    "m": {
+      "identity": 411,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "coverage": "45 countries",
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Warehouse Network",
+        "count": "280 facilities",
+        "label": "Location",
+        "entity_id": "warehouse_locations",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:411"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917533425687593336,
+      "start": 352,
+      "end": 376,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "safety_compliance_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593336",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    },
+    "m": {
+      "identity": 376,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance",
+        "incidents": "342 OSHA recordable",
+        "cost_impact": "$18M",
+        "label": "SkillGap",
+        "insurance_impact": "$18M",
+        "entity_id": "safety_compliance_gap",
+        "priority": 2,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917533425687593340,
+      "start": 352,
+      "end": 380,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "sustainability_competencies_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593340",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:380"
+    },
+    "m": {
+      "identity": 380,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sustainability Competencies",
+        "label": "SkillGap",
+        "entity_id": "sustainability_competencies_gap",
+        "priority": 6,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:380"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917534525199221089,
+      "start": 352,
+      "end": 353,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "globalflow_assessment",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917534525199221089",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:353"
+    },
+    "m": {
+      "identity": 353,
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "date": "January 2026",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "sample_size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Assessment",
+        "label": "Document",
+        "entity_id": "globalflow_assessment",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:353"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1155178801978671456,
+      "start": 352,
+      "end": 410,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "training_budget_2026",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155178801978671456",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410"
+    },
+    "m": {
+      "identity": 410,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "total": "$12M",
+        "name": "Training Budget 2026",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "increase_from": "$3M",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917541122268987801,
+      "start": 352,
+      "end": 409,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "customer_nps",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917541122268987801",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:409"
+    },
+    "m": {
+      "identity": 409,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "42",
+        "name": "Customer Net Promoter Score",
+        "label": "KPI",
+        "entity_id": "customer_nps",
+        "analysis_id": "4eaf97da",
+        "target": "60+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:409"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1155188697583321440,
+      "start": 352,
+      "end": 368,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "warehouse_operations",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155188697583321440",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    },
+    "m": {
+      "identity": 368,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Operations",
+        "label": "Division",
+        "entity_id": "warehouse_operations",
+        "employees": 9200,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1157440497397006688,
+      "start": 352,
+      "end": 369,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "transportation_drivers",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157440497397006688",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:369"
+    },
+    "m": {
+      "identity": 369,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Transportation & Drivers",
+        "label": "Division",
+        "entity_id": "transportation_drivers",
+        "employees": 4800,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:369"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1159692297210691936,
+      "start": 352,
+      "end": 370,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "customer_service",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159692297210691936",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:370"
+    },
+    "m": {
+      "identity": 370,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Customer Service & Account Management",
+        "label": "Division",
+        "entity_id": "customer_service",
+        "employees": 1400,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:370"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1161944097024377184,
+      "start": 352,
+      "end": 371,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "it_technology",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1161944097024377184",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:371"
+    },
+    "m": {
+      "identity": 371,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "IT & Technology",
+        "label": "Division",
+        "entity_id": "it_technology",
+        "employees": 950,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:371"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1164195896838062432,
+      "start": 352,
+      "end": 372,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "corporate_functions",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1164195896838062432",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:372"
+    },
+    "m": {
+      "identity": 372,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Corporate Functions",
+        "label": "Division",
+        "entity_id": "corporate_functions",
+        "employees": 850,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:372"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1166447696651747680,
+      "start": 352,
+      "end": 373,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "sales_business_development",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1166447696651747680",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:373"
+    },
+    "m": {
+      "identity": 373,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Business Development",
+        "label": "Division",
+        "entity_id": "sales_business_development",
+        "employees": 720,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:373"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1168699496465432928,
+      "start": 352,
+      "end": 374,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "globalflow_logistics",
+        "inferred": true,
+        "tgt_id": "supply_chain_consulting",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1168699496465432928",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:374"
+    },
+    "m": {
+      "identity": 374,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Supply Chain Consulting",
+        "label": "Division",
+        "entity_id": "supply_chain_consulting",
+        "employees": 580,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:374"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1152922604118475104,
+      "start": 352,
+      "end": 362,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152922604118475104",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "m": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710000,
+      "start": 352,
+      "end": 368,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "warehouse_operations",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710000",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    },
+    "m": {
+      "identity": 368,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Operations",
+        "label": "Division",
+        "entity_id": "warehouse_operations",
+        "employees": 9200,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710001,
+      "start": 352,
+      "end": 369,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "transportation_drivers",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710001",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:369"
+    },
+    "m": {
+      "identity": 369,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Transportation & Drivers",
+        "label": "Division",
+        "entity_id": "transportation_drivers",
+        "employees": 4800,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:369"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710002,
+      "start": 352,
+      "end": 370,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "customer_service",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710002",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:370"
+    },
+    "m": {
+      "identity": 370,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Customer Service & Account Management",
+        "label": "Division",
+        "entity_id": "customer_service",
+        "employees": 1400,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:370"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710003,
+      "start": 352,
+      "end": 371,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "it_technology",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710003",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:371"
+    },
+    "m": {
+      "identity": 371,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "IT & Technology",
+        "label": "Division",
+        "entity_id": "it_technology",
+        "employees": 950,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:371"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710004,
+      "start": 352,
+      "end": 372,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "corporate_functions",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710004",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:372"
+    },
+    "m": {
+      "identity": 372,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Corporate Functions",
+        "label": "Division",
+        "entity_id": "corporate_functions",
+        "employees": 850,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:372"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710005,
+      "start": 352,
+      "end": 373,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "sales_business_development",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710005",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:373"
+    },
+    "m": {
+      "identity": 373,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Business Development",
+        "label": "Division",
+        "entity_id": "sales_business_development",
+        "employees": 720,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:373"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710006,
+      "start": 352,
+      "end": 374,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "supply_chain_consulting",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710006",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:374"
+    },
+    "m": {
+      "identity": 374,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Supply Chain Consulting",
+        "label": "Division",
+        "entity_id": "supply_chain_consulting",
+        "employees": 580,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:374"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1157426203745845600,
+      "start": 352,
+      "end": 386,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "warehouse_workers",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157426203745845600",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "m": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1159678003559530848,
+      "start": 352,
+      "end": 387,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159678003559530848",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    },
+    "m": {
+      "identity": 387,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": 15000,
+        "turnover_rate": "32%",
+        "name": "Frontline Employees",
+        "label": "Cohort",
+        "entity_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 1155174403932160352,
+      "start": 352,
+      "end": 392,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "marcus_thompson",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155174403932160352",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392"
+    },
+    "m": {
+      "identity": 392,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Marcus Thompson",
+        "focus": "workforce transformation",
+        "label": "Person",
+        "entity_id": "marcus_thompson",
+        "title": "Chief Human Resources Officer",
+        "analysis_id": "4eaf97da",
+        "email": "m.thompson@globalflow.com"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392"
+    }
+  },
+  {
+    "n": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "r": {
+      "identity": 6917530127152710033,
+      "start": 352,
+      "end": 401,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "globalflow_logistics",
+        "tgt_id": "multilingual_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152710033",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:401"
+    },
+    "m": {
+      "identity": 401,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "languages": "32 languages",
+        "name": "Multilingual Workforce",
+        "english_proficiency": "varied",
+        "label": "Cohort",
+        "entity_id": "multilingual_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:401"
+    }
+  },
+  {
+    "n": {
+      "identity": 354,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "CRITICAL",
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "score": 4.2,
+        "interpretation": "tech struggle",
+        "gap": -2.3,
+        "name": "Digital Literacy Gap",
+        "context": "new WMS, TMS, mobile apps",
+        "label": "SkillGap",
+        "entity_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.5
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    },
+    "r": {
+      "identity": 1152935798258008418,
+      "start": 354,
+      "end": 358,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "digital_literacy_gap",
+        "tgt_id": "digital_literacy_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008418",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "m": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    }
+  },
+  {
+    "n": {
+      "identity": 355,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "below average",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 5.4,
+        "interpretation": "resist change",
+        "gap": -1.4,
+        "name": "Learning Orientation Gap",
+        "label": "SkillGap",
+        "entity_id": "learning_orientation_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.8
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:355"
+    },
+    "r": {
+      "identity": 1152935798258008419,
+      "start": 355,
+      "end": 360,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "learning_orientation_gap",
+        "tgt_id": "growth_mindset_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008419",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:355",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:360"
+    },
+    "m": {
+      "identity": 360,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Growth Mindset Training",
+        "focus": "learning orientation",
+        "label": "TrainingProgramme",
+        "entity_id": "growth_mindset_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:360"
+    }
+  },
+  {
+    "n": {
+      "identity": 356,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "below average",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 5.1,
+        "interpretation": "prefer routine",
+        "gap": -1.7,
+        "name": "Adaptability Gap",
+        "label": "SkillGap",
+        "entity_id": "adaptability_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.8
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:356"
+    },
+    "r": {
+      "identity": 1152935798258008420,
+      "start": 356,
+      "end": 359,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "adaptability_gap",
+        "tgt_id": "change_management_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008420",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:356",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:359"
+    },
+    "m": {
+      "identity": 359,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Change Management Training",
+        "label": "TrainingProgramme",
+        "entity_id": "change_management_training",
+        "priority": "critical",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:359"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "r": {
+      "identity": 1152930300699869542,
+      "start": 358,
+      "end": 362,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "digital_literacy_training",
+        "tgt_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869542",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "m": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "r": {
+      "identity": 1155182100513554790,
+      "start": 358,
+      "end": 387,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "digital_literacy_training",
+        "tgt_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554790",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    },
+    "m": {
+      "identity": 387,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": 15000,
+        "turnover_rate": "32%",
+        "name": "Frontline Employees",
+        "label": "Cohort",
+        "entity_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "r": {
+      "identity": 1157433900327240038,
+      "start": 358,
+      "end": 401,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "digital_literacy_training",
+        "tgt_id": "multilingual_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157433900327240038",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:401"
+    },
+    "m": {
+      "identity": 401,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "languages": "32 languages",
+        "name": "Multilingual Workforce",
+        "english_proficiency": "varied",
+        "label": "Cohort",
+        "entity_id": "multilingual_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:401"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "r": {
+      "identity": 1152932499723125094,
+      "start": 358,
+      "end": 354,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "digital_literacy_training",
+        "inferred": true,
+        "tgt_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125094",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    },
+    "m": {
+      "identity": 354,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "CRITICAL",
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "score": 4.2,
+        "interpretation": "tech struggle",
+        "gap": -2.3,
+        "name": "Digital Literacy Gap",
+        "context": "new WMS, TMS, mobile apps",
+        "label": "SkillGap",
+        "entity_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.5
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "r": {
+      "identity": 1155184299536810342,
+      "start": 358,
+      "end": 377,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "digital_literacy_training",
+        "tgt_id": "digital_transformation_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810342",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:377"
+    },
+    "m": {
+      "identity": 377,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "avg_age": 48,
+        "name": "Digital Transformation",
+        "affected_workers": 15000,
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_gap",
+        "priority": 3,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:377"
+    }
+  },
+  {
+    "n": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "r": {
+      "identity": 6917541122268987799,
+      "start": 358,
+      "end": 407,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "digital_literacy_training",
+        "tgt_id": "system_utilization",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917541122268987799",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:407"
+    },
+    "m": {
+      "identity": 407,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "60-70%",
+        "name": "System Utilization Rate",
+        "label": "KPI",
+        "entity_id": "system_utilization",
+        "analysis_id": "4eaf97da",
+        "target": "90%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:407"
+    }
+  },
+  {
+    "n": {
+      "identity": 359,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Change Management Training",
+        "label": "TrainingProgramme",
+        "entity_id": "change_management_training",
+        "priority": "critical",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:359"
+    },
+    "r": {
+      "identity": 1152930300699869543,
+      "start": 359,
+      "end": 362,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "change_management_training",
+        "tgt_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869543",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:359",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "m": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    }
+  },
+  {
+    "n": {
+      "identity": 359,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Change Management Training",
+        "label": "TrainingProgramme",
+        "entity_id": "change_management_training",
+        "priority": "critical",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:359"
+    },
+    "r": {
+      "identity": 1152932499723125095,
+      "start": 359,
+      "end": 356,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "change_management_training",
+        "tgt_id": "adaptability_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125095",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:359",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:356"
+    },
+    "m": {
+      "identity": 356,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "below average",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 5.1,
+        "interpretation": "prefer routine",
+        "gap": -1.7,
+        "name": "Adaptability Gap",
+        "label": "SkillGap",
+        "entity_id": "adaptability_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.8
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:356"
+    }
+  },
+  {
+    "n": {
+      "identity": 360,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Growth Mindset Training",
+        "focus": "learning orientation",
+        "label": "TrainingProgramme",
+        "entity_id": "growth_mindset_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:360"
+    },
+    "r": {
+      "identity": 1152930300699869544,
+      "start": 360,
+      "end": 362,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "growth_mindset_training",
+        "tgt_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869544",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:360",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "m": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    }
+  },
+  {
+    "n": {
+      "identity": 360,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Growth Mindset Training",
+        "focus": "learning orientation",
+        "label": "TrainingProgramme",
+        "entity_id": "growth_mindset_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:360"
+    },
+    "r": {
+      "identity": 1152932499723125096,
+      "start": 360,
+      "end": 355,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "growth_mindset_training",
+        "tgt_id": "learning_orientation_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125096",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:360",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:355"
+    },
+    "m": {
+      "identity": 355,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "below average",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 5.4,
+        "interpretation": "resist change",
+        "gap": -1.4,
+        "name": "Learning Orientation Gap",
+        "label": "SkillGap",
+        "entity_id": "learning_orientation_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.8
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:355"
+    }
+  },
+  {
+    "n": {
+      "identity": 361,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Customer Service Communication",
+        "focus": "customer roles",
+        "label": "TrainingProgramme",
+        "entity_id": "customer_service_communication",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:361"
+    },
+    "r": {
+      "identity": 1152930300699869545,
+      "start": 361,
+      "end": 362,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "customer_service_communication",
+        "tgt_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869545",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:361",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "m": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    }
+  },
+  {
+    "n": {
+      "identity": 361,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "name": "Customer Service Communication",
+        "focus": "customer roles",
+        "label": "TrainingProgramme",
+        "entity_id": "customer_service_communication",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:361"
+    },
+    "r": {
+      "identity": 1152932499723125097,
+      "start": 361,
+      "end": 357,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "customer_service_communication",
+        "inferred": true,
+        "tgt_id": "communication_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125097",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:361",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:357"
+    },
+    "m": {
+      "identity": 357,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "minor",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 6.2,
+        "interpretation": "adequate",
+        "gap": -0.3,
+        "name": "Communication Gap",
+        "label": "SkillGap",
+        "entity_id": "communication_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.5
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:357"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "r": {
+      "identity": 6917533425687593314,
+      "start": 362,
+      "end": 354,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_workforce",
+        "tgt_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593314",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    },
+    "m": {
+      "identity": 354,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "CRITICAL",
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "score": 4.2,
+        "interpretation": "tech struggle",
+        "gap": -2.3,
+        "name": "Digital Literacy Gap",
+        "context": "new WMS, TMS, mobile apps",
+        "label": "SkillGap",
+        "entity_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.5
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "r": {
+      "identity": 6917533425687593315,
+      "start": 362,
+      "end": 355,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_workforce",
+        "tgt_id": "learning_orientation_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593315",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:355"
+    },
+    "m": {
+      "identity": 355,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "below average",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 5.4,
+        "interpretation": "resist change",
+        "gap": -1.4,
+        "name": "Learning Orientation Gap",
+        "label": "SkillGap",
+        "entity_id": "learning_orientation_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.8
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:355"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "r": {
+      "identity": 6917533425687593316,
+      "start": 362,
+      "end": 356,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_workforce",
+        "tgt_id": "adaptability_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593316",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:356"
+    },
+    "m": {
+      "identity": 356,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "below average",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 5.1,
+        "interpretation": "prefer routine",
+        "gap": -1.7,
+        "name": "Adaptability Gap",
+        "label": "SkillGap",
+        "entity_id": "adaptability_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.8
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:356"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "r": {
+      "identity": 6917533425687593317,
+      "start": 362,
+      "end": 357,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_workforce",
+        "tgt_id": "communication_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593317",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:357"
+    },
+    "m": {
+      "identity": 357,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "minor",
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "score": 6.2,
+        "interpretation": "adequate",
+        "gap": -0.3,
+        "name": "Communication Gap",
+        "label": "SkillGap",
+        "entity_id": "communication_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.5
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:357"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "r": {
+      "identity": 6917538923245732203,
+      "start": 362,
+      "end": 363,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_workforce",
+        "tgt_id": "automation_displacement_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732203",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:363"
+    },
+    "m": {
+      "identity": 363,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "driver": "job security concerns",
+        "name": "Address Automation Displacement Fears",
+        "label": "Objective",
+        "entity_id": "automation_displacement_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:363"
+    }
+  },
+  {
+    "n": {
+      "identity": 362,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "size": 500,
+        "scope": "frontline to leadership",
+        "name": "GlobalFlow Workforce",
+        "label": "Cohort",
+        "entity_id": "globalflow_workforce",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362"
+    },
+    "r": {
+      "identity": 6917538923245732204,
+      "start": 362,
+      "end": 364,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "src_id": "globalflow_workforce",
+        "tgt_id": "peer_learning_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732204",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:362",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:364"
+    },
+    "m": {
+      "identity": 364,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Assessment.xlsx",
+        "driver": "strong teamwork values",
+        "name": "Leverage Peer Learning",
+        "label": "Objective",
+        "entity_id": "peer_learning_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:364"
+    }
+  },
+  {
+    "n": {
+      "identity": 368,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Operations",
+        "label": "Division",
+        "entity_id": "warehouse_operations",
+        "employees": 9200,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    },
+    "r": {
+      "identity": 6917533425687593335,
+      "start": 368,
+      "end": 375,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "warehouse_operations",
+        "tgt_id": "automation_readiness_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593335",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "m": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    }
+  },
+  {
+    "n": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "r": {
+      "identity": 6917538923245732242,
+      "start": 375,
+      "end": 402,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "automation_readiness_gap",
+        "tgt_id": "robot_technician",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732242",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:402"
+    },
+    "m": {
+      "identity": 402,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Robot Technician Role",
+        "label": "Objective",
+        "entity_id": "robot_technician",
+        "type": "emerging role",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:402"
+    }
+  },
+  {
+    "n": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "r": {
+      "identity": 6917538923245732243,
+      "start": 375,
+      "end": 403,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "automation_readiness_gap",
+        "tgt_id": "automation_operator",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732243",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:403"
+    },
+    "m": {
+      "identity": 403,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Operator Role",
+        "label": "Objective",
+        "entity_id": "automation_operator",
+        "type": "emerging role",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:403"
+    }
+  },
+  {
+    "n": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "r": {
+      "identity": 6917538923245732244,
+      "start": 375,
+      "end": 404,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "automation_readiness_gap",
+        "tgt_id": "data_analyst",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732244",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:404"
+    },
+    "m": {
+      "identity": 404,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Data Analyst Role",
+        "label": "Objective",
+        "entity_id": "data_analyst",
+        "type": "emerging role",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:404"
+    }
+  },
+  {
+    "n": {
+      "identity": 381,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness Training",
+        "affected_workers": "2000+",
+        "timeline": "24 months",
+        "label": "TrainingProgramme",
+        "entity_id": "automation_training",
+        "type": "reskilling",
+        "priority": "1",
+        "analysis_id": "4eaf97da",
+        "budget": "$4.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    },
+    "r": {
+      "identity": 6917537823734104450,
+      "start": 381,
+      "end": 386,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "automation_training",
+        "tgt_id": "warehouse_workers",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917537823734104450",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "m": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    }
+  },
+  {
+    "n": {
+      "identity": 381,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness Training",
+        "affected_workers": "2000+",
+        "timeline": "24 months",
+        "label": "TrainingProgramme",
+        "entity_id": "automation_training",
+        "type": "reskilling",
+        "priority": "1",
+        "analysis_id": "4eaf97da",
+        "budget": "$4.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    },
+    "r": {
+      "identity": 1152932499723125117,
+      "start": 381,
+      "end": 375,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "automation_training",
+        "inferred": true,
+        "tgt_id": "automation_readiness_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125117",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "m": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    }
+  },
+  {
+    "n": {
+      "identity": 381,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness Training",
+        "affected_workers": "2000+",
+        "timeline": "24 months",
+        "label": "TrainingProgramme",
+        "entity_id": "automation_training",
+        "type": "reskilling",
+        "priority": "1",
+        "analysis_id": "4eaf97da",
+        "budget": "$4.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    },
+    "r": {
+      "identity": 6917541122268987797,
+      "start": 381,
+      "end": 405,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "automation_training",
+        "tgt_id": "worker_transition_success",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917541122268987797",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:405"
+    },
+    "m": {
+      "identity": 405,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Worker Transition Success Rate",
+        "label": "KPI",
+        "entity_id": "worker_transition_success",
+        "analysis_id": "4eaf97da",
+        "target": "80%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:405"
+    }
+  },
+  {
+    "n": {
+      "identity": 382,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance Training",
+        "label": "TrainingProgramme",
+        "entity_id": "safety_training",
+        "type": "compliance",
+        "priority": "2",
+        "incidents_target": "50% reduction",
+        "analysis_id": "4eaf97da",
+        "budget": "$3M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382"
+    },
+    "r": {
+      "identity": 1152930300699869566,
+      "start": 382,
+      "end": 386,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "safety_training",
+        "tgt_id": "warehouse_workers",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869566",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "m": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    }
+  },
+  {
+    "n": {
+      "identity": 382,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance Training",
+        "label": "TrainingProgramme",
+        "entity_id": "safety_training",
+        "type": "compliance",
+        "priority": "2",
+        "incidents_target": "50% reduction",
+        "analysis_id": "4eaf97da",
+        "budget": "$3M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382"
+    },
+    "r": {
+      "identity": 1152932499723125118,
+      "start": 382,
+      "end": 376,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "safety_training",
+        "inferred": true,
+        "tgt_id": "safety_compliance_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125118",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    },
+    "m": {
+      "identity": 376,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance",
+        "incidents": "342 OSHA recordable",
+        "cost_impact": "$18M",
+        "label": "SkillGap",
+        "insurance_impact": "$18M",
+        "entity_id": "safety_compliance_gap",
+        "priority": 2,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    }
+  },
+  {
+    "n": {
+      "identity": 382,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance Training",
+        "label": "TrainingProgramme",
+        "entity_id": "safety_training",
+        "type": "compliance",
+        "priority": "2",
+        "incidents_target": "50% reduction",
+        "analysis_id": "4eaf97da",
+        "budget": "$3M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382"
+    },
+    "r": {
+      "identity": 6917541122268987798,
+      "start": 382,
+      "end": 406,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "safety_training",
+        "tgt_id": "safety_incident_reduction",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917541122268987798",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:406"
+    },
+    "m": {
+      "identity": 406,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "342 incidents",
+        "name": "Safety Incident Reduction",
+        "label": "KPI",
+        "entity_id": "safety_incident_reduction",
+        "analysis_id": "4eaf97da",
+        "target": "50% reduction"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:406"
+    }
+  },
+  {
+    "n": {
+      "identity": 383,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Leadership Development",
+        "label": "TrainingProgramme",
+        "turnover_current": "32%",
+        "entity_id": "leadership_development",
+        "type": "management",
+        "analysis_id": "4eaf97da",
+        "target": "frontline supervisors",
+        "budget": "$1.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383"
+    },
+    "r": {
+      "identity": 1155182100513554815,
+      "start": 383,
+      "end": 387,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "leadership_development",
+        "tgt_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554815",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    },
+    "m": {
+      "identity": 387,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": 15000,
+        "turnover_rate": "32%",
+        "name": "Frontline Employees",
+        "label": "Cohort",
+        "entity_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    }
+  },
+  {
+    "n": {
+      "identity": 383,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Leadership Development",
+        "label": "TrainingProgramme",
+        "turnover_current": "32%",
+        "entity_id": "leadership_development",
+        "type": "management",
+        "analysis_id": "4eaf97da",
+        "target": "frontline supervisors",
+        "budget": "$1.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383"
+    },
+    "r": {
+      "identity": 1152930300699869567,
+      "start": 383,
+      "end": 388,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "leadership_development",
+        "tgt_id": "warehouse_supervisors",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869567",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388"
+    },
+    "m": {
+      "identity": 388,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "promotion_target": true,
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Supervisors",
+        "label": "Cohort",
+        "entity_id": "warehouse_supervisors",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388"
+    }
+  },
+  {
+    "n": {
+      "identity": 383,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Leadership Development",
+        "label": "TrainingProgramme",
+        "turnover_current": "32%",
+        "entity_id": "leadership_development",
+        "type": "management",
+        "analysis_id": "4eaf97da",
+        "target": "frontline supervisors",
+        "budget": "$1.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383"
+    },
+    "r": {
+      "identity": 1152932499723125119,
+      "start": 383,
+      "end": 378,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "leadership_development",
+        "inferred": true,
+        "tgt_id": "leadership_pipeline_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125119",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:378"
+    },
+    "m": {
+      "identity": 378,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "turnover_rate": "32%",
+        "name": "Leadership Pipeline",
+        "label": "SkillGap",
+        "entity_id": "leadership_pipeline_gap",
+        "priority": 4,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:378"
+    }
+  },
+  {
+    "n": {
+      "identity": 383,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Leadership Development",
+        "label": "TrainingProgramme",
+        "turnover_current": "32%",
+        "entity_id": "leadership_development",
+        "type": "management",
+        "analysis_id": "4eaf97da",
+        "target": "frontline supervisors",
+        "budget": "$1.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383"
+    },
+    "r": {
+      "identity": 6917541122268987800,
+      "start": 383,
+      "end": 408,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "leadership_development",
+        "tgt_id": "supervisor_retention",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917541122268987800",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:408"
+    },
+    "m": {
+      "identity": 408,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "32%",
+        "name": "Supervisor Retention",
+        "label": "KPI",
+        "entity_id": "supervisor_retention",
+        "analysis_id": "4eaf97da",
+        "target": "<20%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:408"
+    }
+  },
+  {
+    "n": {
+      "identity": 384,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Consultative Selling Training",
+        "label": "TrainingProgramme",
+        "entity_id": "consultative_selling_training",
+        "type": "sales",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:384"
+    },
+    "r": {
+      "identity": 1152930300699869568,
+      "start": 384,
+      "end": 389,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "consultative_selling_training",
+        "tgt_id": "sales_account_teams",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869568",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:384",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389"
+    },
+    "m": {
+      "identity": 389,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Account Teams",
+        "label": "Cohort",
+        "entity_id": "sales_account_teams",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389"
+    }
+  },
+  {
+    "n": {
+      "identity": 384,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Consultative Selling Training",
+        "label": "TrainingProgramme",
+        "entity_id": "consultative_selling_training",
+        "type": "sales",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:384"
+    },
+    "r": {
+      "identity": 1152932499723125120,
+      "start": 384,
+      "end": 379,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "consultative_selling_training",
+        "tgt_id": "customer_experience_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125120",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:384",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:379"
+    },
+    "m": {
+      "identity": 379,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Customer Experience",
+        "label": "SkillGap",
+        "entity_id": "customer_experience_gap",
+        "priority": 5,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:379"
+    }
+  },
+  {
+    "n": {
+      "identity": 385,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sustainability Competencies Training",
+        "label": "TrainingProgramme",
+        "entity_id": "sustainability_training",
+        "type": "green logistics",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:385"
+    },
+    "r": {
+      "identity": 1152932499723125121,
+      "start": 385,
+      "end": 380,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "sustainability_training",
+        "inferred": true,
+        "tgt_id": "sustainability_competencies_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125121",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:385",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:380"
+    },
+    "m": {
+      "identity": 380,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sustainability Competencies",
+        "label": "SkillGap",
+        "entity_id": "sustainability_competencies_gap",
+        "priority": 6,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:380"
+    }
+  },
+  {
+    "n": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "r": {
+      "identity": 1155177702467043714,
+      "start": 386,
+      "end": 354,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "warehouse_workers",
+        "tgt_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155177702467043714",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    },
+    "m": {
+      "identity": 354,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "CRITICAL",
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "score": 4.2,
+        "interpretation": "tech struggle",
+        "gap": -2.3,
+        "name": "Digital Literacy Gap",
+        "context": "new WMS, TMS, mobile apps",
+        "label": "SkillGap",
+        "entity_id": "digital_literacy_gap",
+        "analysis_id": "4eaf97da",
+        "norm": 6.5
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:354"
+    }
+  },
+  {
+    "n": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "r": {
+      "identity": 1152925902653358466,
+      "start": 386,
+      "end": 375,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "warehouse_workers",
+        "tgt_id": "automation_readiness_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152925902653358466",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "m": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    }
+  },
+  {
+    "n": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "r": {
+      "identity": 1157429502280728962,
+      "start": 386,
+      "end": 376,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "warehouse_workers",
+        "tgt_id": "safety_compliance_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157429502280728962",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    },
+    "m": {
+      "identity": 376,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance",
+        "incidents": "342 OSHA recordable",
+        "cost_impact": "$18M",
+        "label": "SkillGap",
+        "insurance_impact": "$18M",
+        "entity_id": "safety_compliance_gap",
+        "priority": 2,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    }
+  },
+  {
+    "n": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "r": {
+      "identity": 1152934698746380674,
+      "start": 386,
+      "end": 368,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "warehouse_workers",
+        "inferred": true,
+        "tgt_id": "warehouse_operations",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380674",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    },
+    "m": {
+      "identity": 368,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Operations",
+        "label": "Division",
+        "entity_id": "warehouse_operations",
+        "employees": 9200,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    }
+  },
+  {
+    "n": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "r": {
+      "identity": 1152935798258008450,
+      "start": 386,
+      "end": 381,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "warehouse_workers",
+        "tgt_id": "automation_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008450",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    },
+    "m": {
+      "identity": 381,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness Training",
+        "affected_workers": "2000+",
+        "timeline": "24 months",
+        "label": "TrainingProgramme",
+        "entity_id": "automation_training",
+        "type": "reskilling",
+        "priority": "1",
+        "analysis_id": "4eaf97da",
+        "budget": "$4.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    }
+  },
+  {
+    "n": {
+      "identity": 387,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": 15000,
+        "turnover_rate": "32%",
+        "name": "Frontline Employees",
+        "label": "Cohort",
+        "entity_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    },
+    "r": {
+      "identity": 1152925902653358467,
+      "start": 387,
+      "end": 377,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "frontline_employees",
+        "tgt_id": "digital_transformation_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152925902653358467",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:377"
+    },
+    "m": {
+      "identity": 377,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "avg_age": 48,
+        "name": "Digital Transformation",
+        "affected_workers": 15000,
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_gap",
+        "priority": 3,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:377"
+    }
+  },
+  {
+    "n": {
+      "identity": 388,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "promotion_target": true,
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Supervisors",
+        "label": "Cohort",
+        "entity_id": "warehouse_supervisors",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388"
+    },
+    "r": {
+      "identity": 1152925902653358468,
+      "start": 388,
+      "end": 378,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "warehouse_supervisors",
+        "tgt_id": "leadership_pipeline_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152925902653358468",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:378"
+    },
+    "m": {
+      "identity": 378,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "turnover_rate": "32%",
+        "name": "Leadership Pipeline",
+        "label": "SkillGap",
+        "entity_id": "leadership_pipeline_gap",
+        "priority": 4,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:378"
+    }
+  },
+  {
+    "n": {
+      "identity": 388,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "promotion_target": true,
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Supervisors",
+        "label": "Cohort",
+        "entity_id": "warehouse_supervisors",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388"
+    },
+    "r": {
+      "identity": 1152934698746380676,
+      "start": 388,
+      "end": 368,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "warehouse_supervisors",
+        "inferred": true,
+        "tgt_id": "warehouse_operations",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380676",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    },
+    "m": {
+      "identity": 368,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Operations",
+        "label": "Division",
+        "entity_id": "warehouse_operations",
+        "employees": 9200,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:368"
+    }
+  },
+  {
+    "n": {
+      "identity": 389,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Account Teams",
+        "label": "Cohort",
+        "entity_id": "sales_account_teams",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389"
+    },
+    "r": {
+      "identity": 1152925902653358469,
+      "start": 389,
+      "end": 379,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "sales_account_teams",
+        "tgt_id": "customer_experience_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152925902653358469",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:379"
+    },
+    "m": {
+      "identity": 379,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Customer Experience",
+        "label": "SkillGap",
+        "entity_id": "customer_experience_gap",
+        "priority": 5,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:379"
+    }
+  },
+  {
+    "n": {
+      "identity": 389,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Account Teams",
+        "label": "Cohort",
+        "entity_id": "sales_account_teams",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389"
+    },
+    "r": {
+      "identity": 1152934698746380677,
+      "start": 389,
+      "end": 373,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "sales_account_teams",
+        "inferred": true,
+        "tgt_id": "sales_business_development",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380677",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:373"
+    },
+    "m": {
+      "identity": 373,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Business Development",
+        "label": "Division",
+        "entity_id": "sales_business_development",
+        "employees": 720,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:373"
+    }
+  },
+  {
+    "n": {
+      "identity": 390,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Henrik Janssen",
+        "focus": "automation and sustainability",
+        "label": "Person",
+        "entity_id": "henrik_janssen",
+        "title": "CEO",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:390"
+    },
+    "r": {
+      "identity": 1152927002164986246,
+      "start": 390,
+      "end": 395,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "henrik_janssen",
+        "tgt_id": "automation_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986246",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:390",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395"
+    },
+    "m": {
+      "identity": 395,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Automation Workforce Transition",
+        "description": "Reskill 2000+ workers for robotics/AI deployment",
+        "label": "Objective",
+        "entity_id": "automation_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395"
+    }
+  },
+  {
+    "n": {
+      "identity": 390,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Henrik Janssen",
+        "focus": "automation and sustainability",
+        "label": "Person",
+        "entity_id": "henrik_janssen",
+        "title": "CEO",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:390"
+    },
+    "r": {
+      "identity": 1155178801978671494,
+      "start": 390,
+      "end": 400,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "henrik_janssen",
+        "tgt_id": "sustainability_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155178801978671494",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:390",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:400"
+    },
+    "m": {
+      "identity": 400,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Green Logistics Capability",
+        "description": "Build carbon-neutral and circular supply chain expertise",
+        "label": "Objective",
+        "entity_id": "sustainability_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:400"
+    }
+  },
+  {
+    "n": {
+      "identity": 390,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Henrik Janssen",
+        "focus": "automation and sustainability",
+        "label": "Person",
+        "entity_id": "henrik_janssen",
+        "title": "CEO",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:390"
+    },
+    "r": {
+      "identity": 1152936897769636230,
+      "start": 390,
+      "end": 352,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "henrik_janssen",
+        "tgt_id": "globalflow_logistics",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152936897769636230",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:390",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "m": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 391,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Priya Sharma",
+        "focus": "safety and efficiency",
+        "label": "Person",
+        "entity_id": "priya_sharma",
+        "title": "Chief Operating Officer",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:391"
+    },
+    "r": {
+      "identity": 1152927002164986247,
+      "start": 391,
+      "end": 396,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "priya_sharma",
+        "tgt_id": "safety_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986247",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:391",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396"
+    },
+    "m": {
+      "identity": 396,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Safety Culture Transformation",
+        "description": "Reduce OSHA incidents and insurance costs",
+        "label": "Objective",
+        "entity_id": "safety_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396"
+    }
+  },
+  {
+    "n": {
+      "identity": 391,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Priya Sharma",
+        "focus": "safety and efficiency",
+        "label": "Person",
+        "entity_id": "priya_sharma",
+        "title": "Chief Operating Officer",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:391"
+    },
+    "r": {
+      "identity": 1152936897769636231,
+      "start": 391,
+      "end": 352,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "priya_sharma",
+        "tgt_id": "globalflow_logistics",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152936897769636231",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:391",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "m": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 392,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Marcus Thompson",
+        "focus": "workforce transformation",
+        "label": "Person",
+        "entity_id": "marcus_thompson",
+        "title": "Chief Human Resources Officer",
+        "analysis_id": "4eaf97da",
+        "email": "m.thompson@globalflow.com"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392"
+    },
+    "r": {
+      "identity": 1152927002164986248,
+      "start": 392,
+      "end": 398,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "marcus_thompson",
+        "tgt_id": "leadership_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986248",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398"
+    },
+    "m": {
+      "identity": 398,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Management Capability Building",
+        "description": "Reduce turnover through better leadership",
+        "label": "Objective",
+        "entity_id": "leadership_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398"
+    }
+  },
+  {
+    "n": {
+      "identity": 392,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Marcus Thompson",
+        "focus": "workforce transformation",
+        "label": "Person",
+        "entity_id": "marcus_thompson",
+        "title": "Chief Human Resources Officer",
+        "analysis_id": "4eaf97da",
+        "email": "m.thompson@globalflow.com"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392"
+    },
+    "r": {
+      "identity": 6917534525199221148,
+      "start": 392,
+      "end": 412,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "marcus_thompson",
+        "tgt_id": "training_questionnaire",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917534525199221148",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:412"
+    },
+    "m": {
+      "identity": 412,
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "date": "January 17, 2026",
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Training Needs Questionnaire",
+        "label": "Document",
+        "entity_id": "training_questionnaire",
+        "type": "assessment",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:412"
+    }
+  },
+  {
+    "n": {
+      "identity": 392,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Marcus Thompson",
+        "focus": "workforce transformation",
+        "label": "Person",
+        "entity_id": "marcus_thompson",
+        "title": "Chief Human Resources Officer",
+        "analysis_id": "4eaf97da",
+        "email": "m.thompson@globalflow.com"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392"
+    },
+    "r": {
+      "identity": 1152936897769636232,
+      "start": 392,
+      "end": 352,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "marcus_thompson",
+        "tgt_id": "globalflow_logistics",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152936897769636232",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:392",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "m": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 393,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Lisa Chang",
+        "focus": "technology adoption",
+        "label": "Person",
+        "entity_id": "lisa_chang",
+        "title": "CTO",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:393"
+    },
+    "r": {
+      "identity": 1152927002164986249,
+      "start": 393,
+      "end": 397,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "lisa_chang",
+        "tgt_id": "digital_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986249",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:393",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:397"
+    },
+    "m": {
+      "identity": 397,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Digital Adoption",
+        "description": "Enable workforce to use new WMS, TMS, tracking systems",
+        "label": "Objective",
+        "entity_id": "digital_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:397"
+    }
+  },
+  {
+    "n": {
+      "identity": 393,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Lisa Chang",
+        "focus": "technology adoption",
+        "label": "Person",
+        "entity_id": "lisa_chang",
+        "title": "CTO",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:393"
+    },
+    "r": {
+      "identity": 1152936897769636233,
+      "start": 393,
+      "end": 352,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "lisa_chang",
+        "tgt_id": "globalflow_logistics",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152936897769636233",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:393",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "m": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 394,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Ahmed Al-Mansouri",
+        "focus": "consultative capabilities",
+        "label": "Person",
+        "entity_id": "ahmed_al_mansouri",
+        "title": "VP Customer Success",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:394"
+    },
+    "r": {
+      "identity": 1152927002164986250,
+      "start": 394,
+      "end": 399,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "ahmed_al_mansouri",
+        "tgt_id": "customer_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986250",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:394",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399"
+    },
+    "m": {
+      "identity": 399,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Consultative Partnership",
+        "description": "Transform from transactional to strategic relationships",
+        "label": "Objective",
+        "entity_id": "customer_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399"
+    }
+  },
+  {
+    "n": {
+      "identity": 394,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Ahmed Al-Mansouri",
+        "focus": "consultative capabilities",
+        "label": "Person",
+        "entity_id": "ahmed_al_mansouri",
+        "title": "VP Customer Success",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:394"
+    },
+    "r": {
+      "identity": 1152936897769636234,
+      "start": 394,
+      "end": 352,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "ahmed_al_mansouri",
+        "tgt_id": "globalflow_logistics",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152936897769636234",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:394",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    },
+    "m": {
+      "identity": 352,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "revenue": "$8.3 billion",
+        "name": "GlobalFlow Logistics",
+        "industry": "logistics",
+        "label": "Company",
+        "countries": "45 countries",
+        "entity_id": "globalflow_logistics",
+        "employees": 18500,
+        "facilities": "280 facilities",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:352"
+    }
+  },
+  {
+    "n": {
+      "identity": 395,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Automation Workforce Transition",
+        "description": "Reskill 2000+ workers for robotics/AI deployment",
+        "label": "Objective",
+        "entity_id": "automation_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395"
+    },
+    "r": {
+      "identity": 1152930300699869579,
+      "start": 395,
+      "end": 386,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "automation_objective",
+        "inferred": true,
+        "tgt_id": "warehouse_workers",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869579",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    },
+    "m": {
+      "identity": 386,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": "2000+",
+        "at_risk": true,
+        "name": "Warehouse Workers",
+        "label": "Cohort",
+        "entity_id": "warehouse_workers",
+        "analysis_id": "4eaf97da",
+        "demographics": "blue-collar, varied education levels"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:386"
+    }
+  },
+  {
+    "n": {
+      "identity": 395,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Automation Workforce Transition",
+        "description": "Reskill 2000+ workers for robotics/AI deployment",
+        "label": "Objective",
+        "entity_id": "automation_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395"
+    },
+    "r": {
+      "identity": 1152932499723125131,
+      "start": 395,
+      "end": 375,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "automation_objective",
+        "tgt_id": "automation_readiness_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125131",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    },
+    "m": {
+      "identity": 375,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness",
+        "context": "autonomous robots, AI systems deployment",
+        "affected_workers": 2000,
+        "label": "SkillGap",
+        "entity_id": "automation_readiness_gap",
+        "priority": 1,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:375"
+    }
+  },
+  {
+    "n": {
+      "identity": 396,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Safety Culture Transformation",
+        "description": "Reduce OSHA incidents and insurance costs",
+        "label": "Objective",
+        "entity_id": "safety_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396"
+    },
+    "r": {
+      "identity": 1152930300699869580,
+      "start": 396,
+      "end": 387,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "safety_objective",
+        "inferred": true,
+        "tgt_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869580",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    },
+    "m": {
+      "identity": 387,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "size": 15000,
+        "turnover_rate": "32%",
+        "name": "Frontline Employees",
+        "label": "Cohort",
+        "entity_id": "frontline_employees",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:387"
+    }
+  },
+  {
+    "n": {
+      "identity": 396,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Safety Culture Transformation",
+        "description": "Reduce OSHA incidents and insurance costs",
+        "label": "Objective",
+        "entity_id": "safety_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396"
+    },
+    "r": {
+      "identity": 1152932499723125132,
+      "start": 396,
+      "end": 376,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "safety_objective",
+        "tgt_id": "safety_compliance_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125132",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    },
+    "m": {
+      "identity": 376,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance",
+        "incidents": "342 OSHA recordable",
+        "cost_impact": "$18M",
+        "label": "SkillGap",
+        "insurance_impact": "$18M",
+        "entity_id": "safety_compliance_gap",
+        "priority": 2,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:376"
+    }
+  },
+  {
+    "n": {
+      "identity": 397,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Digital Adoption",
+        "description": "Enable workforce to use new WMS, TMS, tracking systems",
+        "label": "Objective",
+        "entity_id": "digital_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:397"
+    },
+    "r": {
+      "identity": 1152932499723125133,
+      "start": 397,
+      "end": 377,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "digital_objective",
+        "tgt_id": "digital_transformation_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125133",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:397",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:377"
+    },
+    "m": {
+      "identity": 377,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "avg_age": 48,
+        "name": "Digital Transformation",
+        "affected_workers": 15000,
+        "label": "SkillGap",
+        "entity_id": "digital_transformation_gap",
+        "priority": 3,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:377"
+    }
+  },
+  {
+    "n": {
+      "identity": 398,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Management Capability Building",
+        "description": "Reduce turnover through better leadership",
+        "label": "Objective",
+        "entity_id": "leadership_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398"
+    },
+    "r": {
+      "identity": 1152930300699869582,
+      "start": 398,
+      "end": 388,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "leadership_objective",
+        "inferred": true,
+        "tgt_id": "warehouse_supervisors",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869582",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388"
+    },
+    "m": {
+      "identity": 388,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "promotion_target": true,
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Warehouse Supervisors",
+        "label": "Cohort",
+        "entity_id": "warehouse_supervisors",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:388"
+    }
+  },
+  {
+    "n": {
+      "identity": 398,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Management Capability Building",
+        "description": "Reduce turnover through better leadership",
+        "label": "Objective",
+        "entity_id": "leadership_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398"
+    },
+    "r": {
+      "identity": 1152932499723125134,
+      "start": 398,
+      "end": 378,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "leadership_objective",
+        "tgt_id": "leadership_pipeline_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125134",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:378"
+    },
+    "m": {
+      "identity": 378,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "turnover_rate": "32%",
+        "name": "Leadership Pipeline",
+        "label": "SkillGap",
+        "entity_id": "leadership_pipeline_gap",
+        "priority": 4,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:378"
+    }
+  },
+  {
+    "n": {
+      "identity": 399,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Consultative Partnership",
+        "description": "Transform from transactional to strategic relationships",
+        "label": "Objective",
+        "entity_id": "customer_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399"
+    },
+    "r": {
+      "identity": 1152930300699869583,
+      "start": 399,
+      "end": 389,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "customer_objective",
+        "inferred": true,
+        "tgt_id": "sales_account_teams",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869583",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389"
+    },
+    "m": {
+      "identity": 389,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sales & Account Teams",
+        "label": "Cohort",
+        "entity_id": "sales_account_teams",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:389"
+    }
+  },
+  {
+    "n": {
+      "identity": 399,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Consultative Partnership",
+        "description": "Transform from transactional to strategic relationships",
+        "label": "Objective",
+        "entity_id": "customer_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399"
+    },
+    "r": {
+      "identity": 1152932499723125135,
+      "start": 399,
+      "end": 379,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "customer_objective",
+        "tgt_id": "customer_experience_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125135",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:379"
+    },
+    "m": {
+      "identity": 379,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Customer Experience",
+        "label": "SkillGap",
+        "entity_id": "customer_experience_gap",
+        "priority": 5,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:379"
+    }
+  },
+  {
+    "n": {
+      "identity": 400,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Green Logistics Capability",
+        "description": "Build carbon-neutral and circular supply chain expertise",
+        "label": "Objective",
+        "entity_id": "sustainability_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:400"
+    },
+    "r": {
+      "identity": 1152932499723125136,
+      "start": 400,
+      "end": 380,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "src_id": "sustainability_objective",
+        "tgt_id": "sustainability_competencies_gap",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723125136",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:400",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:380"
+    },
+    "m": {
+      "identity": 380,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Sustainability Competencies",
+        "label": "SkillGap",
+        "entity_id": "sustainability_competencies_gap",
+        "priority": 6,
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:380"
+    }
+  },
+  {
+    "n": {
+      "identity": 405,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Worker Transition Success Rate",
+        "label": "KPI",
+        "entity_id": "worker_transition_success",
+        "analysis_id": "4eaf97da",
+        "target": "80%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:405"
+    },
+    "r": {
+      "identity": 1155185399048438165,
+      "start": 405,
+      "end": 395,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "worker_transition_success",
+        "inferred": true,
+        "tgt_id": "automation_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048438165",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:405",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395"
+    },
+    "m": {
+      "identity": 395,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Automation Workforce Transition",
+        "description": "Reskill 2000+ workers for robotics/AI deployment",
+        "label": "Objective",
+        "entity_id": "automation_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:395"
+    }
+  },
+  {
+    "n": {
+      "identity": 406,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "342 incidents",
+        "name": "Safety Incident Reduction",
+        "label": "KPI",
+        "entity_id": "safety_incident_reduction",
+        "analysis_id": "4eaf97da",
+        "target": "50% reduction"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:406"
+    },
+    "r": {
+      "identity": 1155185399048438166,
+      "start": 406,
+      "end": 396,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "safety_incident_reduction",
+        "inferred": true,
+        "tgt_id": "safety_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048438166",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:406",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396"
+    },
+    "m": {
+      "identity": 396,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Safety Culture Transformation",
+        "description": "Reduce OSHA incidents and insurance costs",
+        "label": "Objective",
+        "entity_id": "safety_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:396"
+    }
+  },
+  {
+    "n": {
+      "identity": 407,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "60-70%",
+        "name": "System Utilization Rate",
+        "label": "KPI",
+        "entity_id": "system_utilization",
+        "analysis_id": "4eaf97da",
+        "target": "90%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:407"
+    },
+    "r": {
+      "identity": 1155185399048438167,
+      "start": 407,
+      "end": 397,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "system_utilization",
+        "inferred": true,
+        "tgt_id": "digital_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048438167",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:407",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:397"
+    },
+    "m": {
+      "identity": 397,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Digital Adoption",
+        "description": "Enable workforce to use new WMS, TMS, tracking systems",
+        "label": "Objective",
+        "entity_id": "digital_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:397"
+    }
+  },
+  {
+    "n": {
+      "identity": 408,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "32%",
+        "name": "Supervisor Retention",
+        "label": "KPI",
+        "entity_id": "supervisor_retention",
+        "analysis_id": "4eaf97da",
+        "target": "<20%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:408"
+    },
+    "r": {
+      "identity": 1155185399048438168,
+      "start": 408,
+      "end": 398,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "supervisor_retention",
+        "inferred": true,
+        "tgt_id": "leadership_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048438168",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:408",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398"
+    },
+    "m": {
+      "identity": 398,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Management Capability Building",
+        "description": "Reduce turnover through better leadership",
+        "label": "Objective",
+        "entity_id": "leadership_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:398"
+    }
+  },
+  {
+    "n": {
+      "identity": 409,
+      "labels": [
+        "KPI"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "current": "42",
+        "name": "Customer Net Promoter Score",
+        "label": "KPI",
+        "entity_id": "customer_nps",
+        "analysis_id": "4eaf97da",
+        "target": "60+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:409"
+    },
+    "r": {
+      "identity": 1155185399048438169,
+      "start": 409,
+      "end": 399,
+      "type": "MEASURES_OBJECTIVE",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "customer_nps",
+        "inferred": true,
+        "tgt_id": "customer_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155185399048438169",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:409",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399"
+    },
+    "m": {
+      "identity": 399,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Company_Profile.docx",
+        "name": "Consultative Partnership",
+        "description": "Transform from transactional to strategic relationships",
+        "label": "Objective",
+        "entity_id": "customer_objective",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:399"
+    }
+  },
+  {
+    "n": {
+      "identity": 410,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "total": "$12M",
+        "name": "Training Budget 2026",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "increase_from": "$3M",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410"
+    },
+    "r": {
+      "identity": 1157431701303984538,
+      "start": 410,
+      "end": 358,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "training_budget_2026",
+        "tgt_id": "digital_literacy_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157431701303984538",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    },
+    "m": {
+      "identity": 358,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "tech_investment": "$280M",
+        "name": "Digital Literacy Training",
+        "label": "TrainingProgramme",
+        "entity_id": "digital_literacy_training",
+        "type": "digital transformation",
+        "priority": "3",
+        "analysis_id": "4eaf97da",
+        "budget": "$2.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:358"
+    }
+  },
+  {
+    "n": {
+      "identity": 410,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "total": "$12M",
+        "name": "Training Budget 2026",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "increase_from": "$3M",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410"
+    },
+    "r": {
+      "identity": 1152928101676614042,
+      "start": 410,
+      "end": 381,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "training_budget_2026",
+        "tgt_id": "automation_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152928101676614042",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    },
+    "m": {
+      "identity": 381,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Automation Readiness Training",
+        "affected_workers": "2000+",
+        "timeline": "24 months",
+        "label": "TrainingProgramme",
+        "entity_id": "automation_training",
+        "type": "reskilling",
+        "priority": "1",
+        "analysis_id": "4eaf97da",
+        "budget": "$4.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:381"
+    }
+  },
+  {
+    "n": {
+      "identity": 410,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "total": "$12M",
+        "name": "Training Budget 2026",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "increase_from": "$3M",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410"
+    },
+    "r": {
+      "identity": 1155179901490299290,
+      "start": 410,
+      "end": 382,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "training_budget_2026",
+        "tgt_id": "safety_training",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155179901490299290",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382"
+    },
+    "m": {
+      "identity": 382,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Safety & Compliance Training",
+        "label": "TrainingProgramme",
+        "entity_id": "safety_training",
+        "type": "compliance",
+        "priority": "2",
+        "incidents_target": "50% reduction",
+        "analysis_id": "4eaf97da",
+        "budget": "$3M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:382"
+    }
+  },
+  {
+    "n": {
+      "identity": 410,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "total": "$12M",
+        "name": "Training Budget 2026",
+        "label": "Budget",
+        "entity_id": "training_budget_2026",
+        "increase_from": "$3M",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410"
+    },
+    "r": {
+      "identity": 1159683501117669786,
+      "start": 410,
+      "end": 383,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "src_id": "training_budget_2026",
+        "tgt_id": "leadership_development",
+        "analysis_id": "4eaf97da"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159683501117669786",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:410",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383"
+    },
+    "m": {
+      "identity": 383,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "GlobalFlow_Training_Questionnaire.txt",
+        "name": "Leadership Development",
+        "label": "TrainingProgramme",
+        "turnover_current": "32%",
+        "entity_id": "leadership_development",
+        "type": "management",
+        "analysis_id": "4eaf97da",
+        "target": "frontline supervisors",
+        "budget": "$1.5M"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:383"
+    }
+  }
+]

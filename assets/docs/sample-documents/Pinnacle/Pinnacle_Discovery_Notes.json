@@ -1,0 +1,86 @@
+{
+  "client": "Pinnacle Financial Services",
+  "meeting_date": "2026-01-23",
+  "duration": "105 minutes",
+  "attendees": [
+    {
+      "name": "Jonathan Sterling",
+      "title": "CEO",
+      "notes": "Strategic thinker, concerned about relevance"
+    },
+    {
+      "name": "Rebecca Martinez",
+      "title": "Chief Talent Officer",
+      "notes": "DEI champion, driving change"
+    },
+    {
+      "name": "David Chen",
+      "title": "Head of Wealth Management",
+      "notes": "Traditional, some resistance to change"
+    },
+    {
+      "name": "Sarah Thompson",
+      "title": "Chief Digital Officer",
+      "notes": "Frustrated by slow adoption"
+    }
+  ],
+  "key_themes": {
+    "generational_wealth_transfer": {
+      "context": "$30 trillion transferring from Baby Boomers to Millennials/Gen Z over next 15 years. Pinnacle's future depends on retaining next generation of clients.",
+      "challenge": "Traditional advisors (average age 54, predominantly male, white) struggle to connect with diverse, digitally-native, socially-conscious younger heirs. Different values, communication preferences, expectations.",
+      "examples": [
+        "37-year-old tech entrepreneur inheriting $50M didn't connect with 62-year-old advisor. Moved assets to competitor with younger, more diverse advisory team.",
+        "Next-gen clients want ESG investing, crypto exposure, impact measurement. Many advisors dismiss these as 'fads' or don't have expertise.",
+        "Younger clients expect mobile app, real-time access, text communication. Advisors insist on quarterly in-person meetings."
+      ],
+      "training_need": "Prepare advisors to serve next-gen clients: digital communication, values-based advising, technical knowledge in emerging areas, cross-generational relationship building, inclusive practices."
+    },
+    "technical_depth_gaps": {
+      "context": "Wealth management becoming more complex. Clients expect sophisticated strategies: alternative investments, tax optimization, estate planning, philanthropy, family governance, next-gen education.",
+      "challenge": "Many advisors are generalists without deep technical expertise. Competitors hiring specialists (tax attorneys, CFAs, CFPs) and winning business with superior technical capabilities.",
+      "specific_gaps": {
+        "alternative_investments": "Private equity, hedge funds, real estate, infrastructure - clients allocating 30-40% to alternatives but advisors lack expertise",
+        "tax_strategies": "Complex tax planning for UHNW families requires sophisticated knowledge most advisors don't have",
+        "estate_family_planning": "Multi-generational wealth transfer, family office structures, governance - need specialized expertise",
+        "ESG_impact": "Environmental, social, governance investing plus measurable impact - growing client demand but advisor skepticism/ignorance",
+        "cryptocurrency": "Clients asking about Bitcoin, DeFi, blockchain. Most advisors dismiss or don't understand. Losing credibility."
+      },
+      "training_need": "Build technical expertise across advisory team. Combination of specialized training for experts and foundational knowledge for all advisors."
+    },
+    "digital_transformation_resistance": {
+      "context": "Firm invested $180M in digital infrastructure: CRM, financial planning software, mobile apps, data analytics, AI-powered insights. Technology is good. Adoption is terrible.",
+      "resistance_factors": [
+        "Advisors built careers on personal relationships - see technology as impersonal or threatening",
+        "Older workforce less comfortable with technology",
+        "Fear that technology will replace them (job security concerns)",
+        "Past technology rollouts were painful (poor training, buggy systems)",
+        "'If it ain't broke' mentality - current approach has worked for decades",
+        "Lack of digital literacy - many advisors struggle with basic tech"
+      ],
+      "business_impact": "Not realizing ROI on technology investment. Clients frustrated by lack of digital access. Younger advisors leaving for more innovative firms.",
+      "training_need": "Change management for digital transformation. Build digital skills. Help advisors see technology as enabling better service (not replacing relationships). Age-appropriate training approaches."
+    },
+    "compliance_culture": {
+      "context": "Financial services highly regulated. FINRA, SEC, state regulators, anti-money laundering, fiduciary duty, privacy rules. Average 18 hours annual compliance training required.",
+      "current_approach": "Online modules, checkbox training, focus on 'don't get in trouble' vs. 'do what's right'. People resent it as bureaucratic burden.",
+      "issues": [
+        "Advisors view compliance as obstacle to serving clients (not protection)",
+        "Pressure to hit revenue targets sometimes overrides risk management",
+        "Gray areas where people rationalize questionable behavior",
+        "Inconsistent enforcement - some people 'get away with' violations",
+        "Fear culture - people don't ask questions or report concerns"
+      ],
+      "training_need": "Build genuine culture of ethics and integrity. Move beyond checkbox compliance to understanding WHY rules exist and commitment to doing right thing. Make compliance feel like part of client service, not separate obligation."
+    }
+  },
+  "success_metrics": {
+    "client_retention": "Improve next-gen client retention from 62% to 85%+",
+    "revenue_growth": "Increase organic growth rate from 4% to 8% annually",
+    "digital_adoption": "Increase platform usage from 45% to 90%+",
+    "compliance": "Zero regulatory violations (currently 2-3 minor findings per year)",
+    "diversity": "Increase diverse representation in client-facing roles from 29% to 50% over 3 years",
+    "employee_engagement": "Improve engagement scores from 68% to 80%+"
+  },
+  "budget": "$5.2M for training programs in 2026",
+  "timeline": "Q1: Design, Q2: Pilot, Q3-Q4: Scale implementation"
+}

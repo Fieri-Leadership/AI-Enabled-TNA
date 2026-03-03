@@ -1,0 +1,5785 @@
+[
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917530127152709820,
+      "start": 178,
+      "end": 188,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "linda_zhao",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709820",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:188"
+    },
+    "m": {
+      "identity": 188,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "CEO",
+        "background": "former studio executive",
+        "name": "Linda Zhao",
+        "label": "Person",
+        "entity_id": "linda_zhao",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:188"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917530127152709821,
+      "start": 178,
+      "end": 189,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "patrick_obrien",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709821",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:189"
+    },
+    "m": {
+      "identity": 189,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "Chief Creative Officer",
+        "name": "Patrick O'Brien",
+        "label": "Person",
+        "entity_id": "patrick_obrien",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:189"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917530127152709822,
+      "start": 178,
+      "end": 190,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "maria_santos",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709822",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:190"
+    },
+    "m": {
+      "identity": 190,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "CFO",
+        "name": "Maria Santos",
+        "label": "Person",
+        "entity_id": "maria_santos",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:190"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917530127152709823,
+      "start": 178,
+      "end": 191,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "james_kim",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709823",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191"
+    },
+    "m": {
+      "identity": 191,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "role": "Head of HR & Culture",
+        "name": "James Kim",
+        "label": "Person",
+        "entity_id": "james_kim",
+        "title": "Head of HR & Culture",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917530127152709824,
+      "start": 178,
+      "end": 192,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "emma_rodriguez",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709824",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:192"
+    },
+    "m": {
+      "identity": 192,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "SVP Production",
+        "name": "Emma Rodriguez",
+        "label": "Person",
+        "entity_id": "emma_rodriguez",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:192"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917530127152709837,
+      "start": 178,
+      "end": 205,
+      "type": "EMPLOYS",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_studios",
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917530127152709837",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1152924803141730482,
+      "start": 178,
+      "end": 179,
+      "type": "LOCATED_IN",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "los_angeles",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152924803141730482",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:179"
+    },
+    "m": {
+      "identity": 179,
+      "labels": [
+        "Location"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Los Angeles, California",
+        "label": "Location",
+        "entity_id": "los_angeles",
+        "type": "headquarters",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:179"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1152927002164986034,
+      "start": 178,
+      "end": 263,
+      "type": "SPONSORS",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "fy_2026_budget",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152927002164986034",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263"
+    },
+    "m": {
+      "identity": 263,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "amount": "$3.2 million",
+        "name": "FY 2026 Training Budget",
+        "label": "Budget",
+        "entity_id": "fy_2026_budget",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1157434999838867634,
+      "start": 178,
+      "end": 202,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_studios",
+        "tgt_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157434999838867634",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    },
+    "m": {
+      "identity": 202,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Culture Transformation Program",
+        "focus": "respect, inclusion, boundaries",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917538923245732058,
+      "start": 178,
+      "end": 218,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_studios",
+        "tgt_id": "ego_management_objective",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732058",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:218"
+    },
+    "m": {
+      "identity": 218,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Manage Elevated Narcissistic Tendencies",
+        "concern_level": "high",
+        "label": "Objective",
+        "entity_id": "ego_management_objective",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:218"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1155183200025182386,
+      "start": 178,
+      "end": 219,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_studios",
+        "tgt_id": "execution_improvement_objective",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155183200025182386",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:219"
+    },
+    "m": {
+      "identity": 219,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Improve Execution Capabilities",
+        "description": "build structure without crushing creative spirit",
+        "label": "Objective",
+        "entity_id": "execution_improvement_objective",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:219"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1159686799652552882,
+      "start": 178,
+      "end": 220,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_studios",
+        "tgt_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159686799652552882",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    },
+    "m": {
+      "identity": 220,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Culture Transformation Program",
+        "focus": "complementary skills development",
+        "label": "Objective",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1161938599466238130,
+      "start": 178,
+      "end": 256,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "reduce_budget_overruns",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1161938599466238130",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:256"
+    },
+    "m": {
+      "identity": 256,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "23% average",
+        "name": "Reduce Budget Overruns",
+        "label": "Objective",
+        "entity_id": "reduce_budget_overruns",
+        "analysis_id": "1ed9e84b",
+        "target": "<10%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:256"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1164190399279923378,
+      "start": 178,
+      "end": 257,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "reduce_schedule_delays",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1164190399279923378",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:257"
+    },
+    "m": {
+      "identity": 257,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "6 weeks average",
+        "name": "Reduce Schedule Delays",
+        "label": "Objective",
+        "entity_id": "reduce_schedule_delays",
+        "analysis_id": "1ed9e84b",
+        "target": "<2 weeks"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:257"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917538923245732098,
+      "start": 178,
+      "end": 258,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "improve_on_time_delivery",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917538923245732098",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:258"
+    },
+    "m": {
+      "identity": 258,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "32%",
+        "name": "Improve On-Time Delivery",
+        "label": "Objective",
+        "entity_id": "improve_on_time_delivery",
+        "analysis_id": "1ed9e84b",
+        "target": "75%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:258"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1166442199093608626,
+      "start": 178,
+      "end": 259,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "increase_inclusion_scores",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1166442199093608626",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:259"
+    },
+    "m": {
+      "identity": 259,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "52%",
+        "name": "Increase Inclusion Scores",
+        "label": "Objective",
+        "entity_id": "increase_inclusion_scores",
+        "analysis_id": "1ed9e84b",
+        "target": "80%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:259"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1168693998907293874,
+      "start": 178,
+      "end": 260,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "reduce_hr_complaints",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1168693998907293874",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:260"
+    },
+    "m": {
+      "identity": 260,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Reduce HR Complaints",
+        "label": "Objective",
+        "entity_id": "reduce_hr_complaints",
+        "analysis_id": "1ed9e84b",
+        "target": "60% reduction"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:260"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1170945798720979122,
+      "start": 178,
+      "end": 261,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "increase_retention",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1170945798720979122",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:261"
+    },
+    "m": {
+      "identity": 261,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "78%",
+        "name": "Increase Employee Retention",
+        "label": "Objective",
+        "entity_id": "increase_retention",
+        "analysis_id": "1ed9e84b",
+        "target": "88%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:261"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1173197598534664370,
+      "start": 178,
+      "end": 262,
+      "type": "HAS_OBJECTIVE",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "improve_glassdoor_rating",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1173197598534664370",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:262"
+    },
+    "m": {
+      "identity": 262,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "3.2",
+        "name": "Improve Glassdoor Rating",
+        "label": "Objective",
+        "entity_id": "improve_glassdoor_rating",
+        "analysis_id": "1ed9e84b",
+        "target": "4.0+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:262"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917564212013170912,
+      "start": 178,
+      "end": 224,
+      "type": "HAS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "executives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917564212013170912",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:224"
+    },
+    "m": {
+      "identity": 224,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Executives",
+        "count": 25,
+        "label": "Cohort",
+        "entity_id": "executives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:224"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917564212013170913,
+      "start": 178,
+      "end": 225,
+      "type": "HAS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917564212013170913",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Senior Producers",
+        "count": 85,
+        "label": "Cohort",
+        "entity_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917564212013170914,
+      "start": 178,
+      "end": 226,
+      "type": "HAS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "mid_level_creatives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917564212013170914",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:226"
+    },
+    "m": {
+      "identity": 226,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Mid Level Creatives",
+        "count": 420,
+        "label": "Cohort",
+        "entity_id": "mid_level_creatives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:226"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917564212013170915,
+      "start": 178,
+      "end": 227,
+      "type": "HAS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917564212013170915",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    },
+    "m": {
+      "identity": 227,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Department Heads",
+        "count": 180,
+        "label": "Cohort",
+        "entity_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917564212013170916,
+      "start": 178,
+      "end": 228,
+      "type": "HAS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "individual_contributors",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917564212013170916",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:228"
+    },
+    "m": {
+      "identity": 228,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Individual Contributors",
+        "count": 1090,
+        "label": "Cohort",
+        "entity_id": "individual_contributors",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:228"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917564212013170917,
+      "start": 178,
+      "end": 229,
+      "type": "HAS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "freelance_contractors",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917564212013170917",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:229"
+    },
+    "m": {
+      "identity": 229,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Freelance Contractors",
+        "count": 1400,
+        "label": "Cohort",
+        "entity_id": "freelance_contractors",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:229"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593153,
+      "start": 178,
+      "end": 193,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "project_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593153",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:193"
+    },
+    "m": {
+      "identity": 193,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Project Management Skills Gap",
+        "description": "68% of productions exceed budget, 54% miss deadlines",
+        "label": "SkillGap",
+        "entity_id": "project_management_gap",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:193"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593154,
+      "start": 178,
+      "end": 194,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "creative_business_tension",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593154",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:194"
+    },
+    "m": {
+      "identity": 194,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Creative vs Business Alignment",
+        "description": "Writers, directors resist business constraints",
+        "label": "SkillGap",
+        "entity_id": "creative_business_tension",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:194"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593155,
+      "start": 178,
+      "end": 195,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "streaming_economics_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593155",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:195"
+    },
+    "m": {
+      "identity": 195,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Streaming Economics Adaptation",
+        "description": "Staff struggling to adjust from film to streaming model",
+        "label": "SkillGap",
+        "entity_id": "streaming_economics_gap",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:195"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593156,
+      "start": 178,
+      "end": 196,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593156",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593157,
+      "start": 178,
+      "end": 197,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "contractor_integration",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593157",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:197"
+    },
+    "m": {
+      "identity": 197,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Freelance Workforce Integration",
+        "description": "44% contractors, inconsistent onboarding, knowledge loss",
+        "label": "SkillGap",
+        "entity_id": "contractor_integration",
+        "priority": "high",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:197"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593158,
+      "start": 178,
+      "end": 198,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "technology_upskilling",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593158",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:198"
+    },
+    "m": {
+      "identity": 198,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Emerging Technology Training",
+        "description": "Need upskilling in VR, AI tools, virtual production",
+        "label": "SkillGap",
+        "entity_id": "technology_upskilling",
+        "priority": "high",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:198"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 1155177702467043506,
+      "start": 178,
+      "end": 207,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "numerical_reasoning_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155177702467043506",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:207"
+    },
+    "m": {
+      "identity": 207,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "industry_norm": 6.8,
+        "gap": -0.7,
+        "stellar_mean": 6.1,
+        "name": "Numerical Reasoning Deficiency",
+        "description": "Creatives lack financial and business understanding",
+        "label": "SkillGap",
+        "entity_id": "numerical_reasoning_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:207"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593190,
+      "start": 178,
+      "end": 230,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593190",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593191,
+      "start": 178,
+      "end": 231,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "schedule_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593191",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:231"
+    },
+    "m": {
+      "identity": 231,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current_delay": "6 weeks average",
+        "name": "Schedule Management Gap",
+        "label": "SkillGap",
+        "entity_id": "schedule_management_gap",
+        "analysis_id": "1ed9e84b",
+        "target_delay": "<2 weeks"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:231"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917533425687593192,
+      "start": 178,
+      "end": 232,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "stellar_studios",
+        "tgt_id": "budget_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593192",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:232"
+    },
+    "m": {
+      "identity": 232,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Budget Management Gap",
+        "current_overrun": "23% average",
+        "label": "SkillGap",
+        "entity_id": "budget_management_gap",
+        "target_overrun": "<10%",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:232"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498676,
+      "start": 178,
+      "end": 180,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "film_production",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498676",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:180"
+    },
+    "m": {
+      "identity": 180,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Film Production",
+        "label": "Division",
+        "entity_id": "film_production",
+        "employees": 580,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:180"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498677,
+      "start": 178,
+      "end": 181,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "television_streaming",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498677",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:181"
+    },
+    "m": {
+      "identity": 181,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Television & Streaming",
+        "label": "Division",
+        "entity_id": "television_streaming",
+        "employees": 720,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:181"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498678,
+      "start": 178,
+      "end": 182,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "animation_division",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498678",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:182"
+    },
+    "m": {
+      "identity": 182,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Animation Division",
+        "label": "Division",
+        "entity_id": "animation_division",
+        "employees": 420,
+        "analysis_id": "1ed9e84b",
+        "acquired": 2023
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:182"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498679,
+      "start": 178,
+      "end": 183,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "post_production_vfx",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498679",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:183"
+    },
+    "m": {
+      "identity": 183,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Post-Production & VFX",
+        "label": "Division",
+        "entity_id": "post_production_vfx",
+        "employees": 450,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:183"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498680,
+      "start": 178,
+      "end": 184,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "development_creative",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498680",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:184"
+    },
+    "m": {
+      "identity": 184,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Development & Creative Affairs",
+        "label": "Division",
+        "entity_id": "development_creative",
+        "employees": 180,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:184"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498681,
+      "start": 178,
+      "end": 185,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "business_affairs_legal",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498681",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:185"
+    },
+    "m": {
+      "identity": 185,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Business Affairs & Legal",
+        "label": "Division",
+        "entity_id": "business_affairs_legal",
+        "employees": 210,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:185"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498682,
+      "start": 178,
+      "end": 186,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "corporate_functions",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498682",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:186"
+    },
+    "m": {
+      "identity": 186,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Corporate Functions",
+        "label": "Division",
+        "entity_id": "corporate_functions",
+        "employees": 240,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:186"
+    }
+  },
+  {
+    "n": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "r": {
+      "identity": 6917545520315498683,
+      "start": 178,
+      "end": 187,
+      "type": "HAS_DIVISION",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "stellar_studios",
+        "tgt_id": "marketing_distribution",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917545520315498683",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:187"
+    },
+    "m": {
+      "identity": 187,
+      "labels": [
+        "Division"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Marketing & Distribution",
+        "label": "Division",
+        "entity_id": "marketing_distribution",
+        "employees": 400,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:187"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "CEO",
+        "background": "former studio executive",
+        "name": "Linda Zhao",
+        "label": "Person",
+        "entity_id": "linda_zhao",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:188"
+    },
+    "r": {
+      "identity": 1152934698746380476,
+      "start": 188,
+      "end": 205,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "linda_zhao",
+        "inferred": true,
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380476",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:188",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 188,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "CEO",
+        "background": "former studio executive",
+        "name": "Linda Zhao",
+        "label": "Person",
+        "entity_id": "linda_zhao",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:188"
+    },
+    "r": {
+      "identity": 1152936897769636028,
+      "start": 188,
+      "end": 178,
+      "type": "MANAGES",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "linda_zhao",
+        "tgt_id": "stellar_studios",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152936897769636028",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:188",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    },
+    "m": {
+      "identity": 178,
+      "labels": [
+        "Company"
+      ],
+      "properties": {
+        "employee_count": 1800,
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "headquarters": "Los Angeles, California",
+        "revenue": "2.1 billion",
+        "contractor_count": 1400,
+        "name": "Stellar Studios Entertainment Inc.",
+        "founded": 1998,
+        "industry": "Entertainment",
+        "label": "Company",
+        "entity_id": "stellar_studios",
+        "employees": 3200,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:178"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "Chief Creative Officer",
+        "name": "Patrick O'Brien",
+        "label": "Person",
+        "entity_id": "patrick_obrien",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:189"
+    },
+    "r": {
+      "identity": 1152934698746380477,
+      "start": 189,
+      "end": 205,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "patrick_obrien",
+        "inferred": true,
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380477",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:189",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 189,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "Chief Creative Officer",
+        "name": "Patrick O'Brien",
+        "label": "Person",
+        "entity_id": "patrick_obrien",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:189"
+    },
+    "r": {
+      "identity": 1152935798258008253,
+      "start": 189,
+      "end": 200,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "patrick_obrien",
+        "tgt_id": "creative_business_bridge",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008253",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:189",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:200"
+    },
+    "m": {
+      "identity": 200,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Creative-Business Mindset Bridge",
+        "focus": "align creative and business perspectives",
+        "label": "TrainingProgramme",
+        "entity_id": "creative_business_bridge",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:200"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "CFO",
+        "name": "Maria Santos",
+        "label": "Person",
+        "entity_id": "maria_santos",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:190"
+    },
+    "r": {
+      "identity": 1152934698746380478,
+      "start": 190,
+      "end": 205,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "maria_santos",
+        "inferred": true,
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380478",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:190",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 190,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "CFO",
+        "name": "Maria Santos",
+        "label": "Person",
+        "entity_id": "maria_santos",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:190"
+    },
+    "r": {
+      "identity": 1152935798258008254,
+      "start": 190,
+      "end": 201,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "maria_santos",
+        "tgt_id": "streaming_capabilities",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008254",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:190",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:201"
+    },
+    "m": {
+      "identity": 201,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Streaming Production Capabilities",
+        "focus": "efficient content production for streaming model",
+        "label": "TrainingProgramme",
+        "entity_id": "streaming_capabilities",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:201"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "role": "Head of HR & Culture",
+        "name": "James Kim",
+        "label": "Person",
+        "entity_id": "james_kim",
+        "title": "Head of HR & Culture",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191"
+    },
+    "r": {
+      "identity": 1152934698746380479,
+      "start": 191,
+      "end": 205,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "james_kim",
+        "inferred": true,
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380479",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "role": "Head of HR & Culture",
+        "name": "James Kim",
+        "label": "Person",
+        "entity_id": "james_kim",
+        "title": "Head of HR & Culture",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191"
+    },
+    "r": {
+      "identity": 1152935798258008255,
+      "start": 191,
+      "end": 202,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "james_kim",
+        "tgt_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008255",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    },
+    "m": {
+      "identity": 202,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Culture Transformation Program",
+        "focus": "respect, inclusion, boundaries",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "role": "Head of HR & Culture",
+        "name": "James Kim",
+        "label": "Person",
+        "entity_id": "james_kim",
+        "title": "Head of HR & Culture",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191"
+    },
+    "r": {
+      "identity": 1155187598071693503,
+      "start": 191,
+      "end": 220,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "james_kim",
+        "tgt_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155187598071693503",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    },
+    "m": {
+      "identity": 220,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Culture Transformation Program",
+        "focus": "complementary skills development",
+        "label": "Objective",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    }
+  },
+  {
+    "n": {
+      "identity": 191,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "role": "Head of HR & Culture",
+        "name": "James Kim",
+        "label": "Person",
+        "entity_id": "james_kim",
+        "title": "Head of HR & Culture",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191"
+    },
+    "r": {
+      "identity": 6917565311524798728,
+      "start": 191,
+      "end": 264,
+      "type": "COMPLETED",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "james_kim",
+        "tgt_id": "questionnaire_document",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917565311524798728",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:191",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:264"
+    },
+    "m": {
+      "identity": 264,
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "date": "2026-01-20",
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Stellar Studios Questionnaire",
+        "label": "Document",
+        "entity_id": "questionnaire_document",
+        "type": "Training Needs Assessment",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:264"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "SVP Production",
+        "name": "Emma Rodriguez",
+        "label": "Person",
+        "entity_id": "emma_rodriguez",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:192"
+    },
+    "r": {
+      "identity": 1152934698746380480,
+      "start": 192,
+      "end": 205,
+      "type": "MEMBER_OF",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "emma_rodriguez",
+        "inferred": true,
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152934698746380480",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:192",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 192,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "role": "SVP Production",
+        "name": "Emma Rodriguez",
+        "label": "Person",
+        "entity_id": "emma_rodriguez",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:192"
+    },
+    "r": {
+      "identity": 1152935798258008256,
+      "start": 192,
+      "end": 199,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "src_id": "emma_rodriguez",
+        "tgt_id": "project_management_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008256",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:192",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "m": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "r": {
+      "identity": 1152930300699869380,
+      "start": 196,
+      "end": 224,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "culture_transformation",
+        "tgt_id": "executives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869380",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:224"
+    },
+    "m": {
+      "identity": 224,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Executives",
+        "count": 25,
+        "label": "Cohort",
+        "entity_id": "executives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:224"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "r": {
+      "identity": 1155182100513554628,
+      "start": 196,
+      "end": 225,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "culture_transformation",
+        "tgt_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554628",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Senior Producers",
+        "count": 85,
+        "label": "Cohort",
+        "entity_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    }
+  },
+  {
+    "n": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "r": {
+      "identity": 1157433900327239876,
+      "start": 196,
+      "end": 227,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "culture_transformation",
+        "tgt_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157433900327239876",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    },
+    "m": {
+      "identity": 227,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Department Heads",
+        "count": 180,
+        "label": "Cohort",
+        "entity_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 1152930300699869383,
+      "start": 199,
+      "end": 225,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "project_management_training",
+        "tgt_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869383",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Senior Producers",
+        "count": 85,
+        "label": "Cohort",
+        "entity_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 1155182100513554631,
+      "start": 199,
+      "end": 226,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "project_management_training",
+        "tgt_id": "mid_level_creatives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554631",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:226"
+    },
+    "m": {
+      "identity": 226,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Mid Level Creatives",
+        "count": 420,
+        "label": "Cohort",
+        "entity_id": "mid_level_creatives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:226"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 1157433900327239879,
+      "start": 199,
+      "end": 227,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "project_management_training",
+        "tgt_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157433900327239879",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    },
+    "m": {
+      "identity": 227,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Department Heads",
+        "count": 180,
+        "label": "Cohort",
+        "entity_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 1152932499723124935,
+      "start": 199,
+      "end": 193,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "project_management_training",
+        "inferred": true,
+        "tgt_id": "project_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124935",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:193"
+    },
+    "m": {
+      "identity": 193,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Project Management Skills Gap",
+        "description": "68% of productions exceed budget, 54% miss deadlines",
+        "label": "SkillGap",
+        "entity_id": "project_management_gap",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:193"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 6917540022757359822,
+      "start": 199,
+      "end": 206,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "project_management_training",
+        "tgt_id": "conscientiousness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917540022757359822",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:206"
+    },
+    "m": {
+      "identity": 206,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "critical",
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.8,
+        "gap": -1.7,
+        "stellar_mean": 5.1,
+        "name": "Conscientiousness Deficiency",
+        "description": "disorganized, spontaneous",
+        "label": "SkillGap",
+        "entity_id": "conscientiousness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:206"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 1155184299536810183,
+      "start": 199,
+      "end": 231,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "project_management_training",
+        "inferred": true,
+        "tgt_id": "schedule_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810183",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:231"
+    },
+    "m": {
+      "identity": 231,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current_delay": "6 weeks average",
+        "name": "Schedule Management Gap",
+        "label": "SkillGap",
+        "entity_id": "schedule_management_gap",
+        "analysis_id": "1ed9e84b",
+        "target_delay": "<2 weeks"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:231"
+    }
+  },
+  {
+    "n": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "r": {
+      "identity": 1157436099350495431,
+      "start": 199,
+      "end": 232,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "project_management_training",
+        "inferred": true,
+        "tgt_id": "budget_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157436099350495431",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:232"
+    },
+    "m": {
+      "identity": 232,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Budget Management Gap",
+        "current_overrun": "23% average",
+        "label": "SkillGap",
+        "entity_id": "budget_management_gap",
+        "target_overrun": "<10%",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:232"
+    }
+  },
+  {
+    "n": {
+      "identity": 200,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Creative-Business Mindset Bridge",
+        "focus": "align creative and business perspectives",
+        "label": "TrainingProgramme",
+        "entity_id": "creative_business_bridge",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:200"
+    },
+    "r": {
+      "identity": 1152932499723124936,
+      "start": 200,
+      "end": 194,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "creative_business_bridge",
+        "inferred": true,
+        "tgt_id": "creative_business_tension",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124936",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:200",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:194"
+    },
+    "m": {
+      "identity": 194,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Creative vs Business Alignment",
+        "description": "Writers, directors resist business constraints",
+        "label": "SkillGap",
+        "entity_id": "creative_business_tension",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:194"
+    }
+  },
+  {
+    "n": {
+      "identity": 201,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Streaming Production Capabilities",
+        "focus": "efficient content production for streaming model",
+        "label": "TrainingProgramme",
+        "entity_id": "streaming_capabilities",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:201"
+    },
+    "r": {
+      "identity": 1152932499723124937,
+      "start": 201,
+      "end": 195,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "streaming_capabilities",
+        "inferred": true,
+        "tgt_id": "streaming_economics_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124937",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:201",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:195"
+    },
+    "m": {
+      "identity": 195,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Streaming Economics Adaptation",
+        "description": "Staff struggling to adjust from film to streaming model",
+        "label": "SkillGap",
+        "entity_id": "streaming_economics_gap",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:195"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Culture Transformation Program",
+        "focus": "respect, inclusion, boundaries",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    },
+    "r": {
+      "identity": 1152932499723124938,
+      "start": 202,
+      "end": 196,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "culture_transformation_program",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124938",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Culture Transformation Program",
+        "focus": "respect, inclusion, boundaries",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    },
+    "r": {
+      "identity": 1157436099350495434,
+      "start": 202,
+      "end": 209,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "culture_transformation_program",
+        "tgt_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157436099350495434",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    },
+    "m": {
+      "identity": 209,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.5,
+        "gap": -1.7,
+        "stellar_mean": 4.8,
+        "name": "Empathy Deficit",
+        "description": "struggles with others' feelings",
+        "label": "SkillGap",
+        "entity_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    }
+  },
+  {
+    "n": {
+      "identity": 202,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Culture Transformation Program",
+        "focus": "respect, inclusion, boundaries",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202"
+    },
+    "r": {
+      "identity": 1155184299536810186,
+      "start": 202,
+      "end": 230,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "culture_transformation_program",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810186",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:202",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 203,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Contractor Integration and Development",
+        "focus": "consistent onboarding and capability building",
+        "label": "TrainingProgramme",
+        "entity_id": "contractor_development",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:203"
+    },
+    "r": {
+      "identity": 1152932499723124939,
+      "start": 203,
+      "end": 197,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "contractor_development",
+        "inferred": true,
+        "tgt_id": "contractor_integration",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124939",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:203",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:197"
+    },
+    "m": {
+      "identity": 197,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Freelance Workforce Integration",
+        "description": "44% contractors, inconsistent onboarding, knowledge loss",
+        "label": "SkillGap",
+        "entity_id": "contractor_integration",
+        "priority": "high",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:197"
+    }
+  },
+  {
+    "n": {
+      "identity": 204,
+      "labels": [
+        "Document"
+      ],
+      "properties": {
+        "date": "January 2026",
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "sample_size": 120,
+        "name": "StellarStudios Psychometric Assessment",
+        "label": "Document",
+        "entity_id": "stellar_psychometric_assessment",
+        "type": "psychometric_assessment",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:204"
+    },
+    "r": {
+      "identity": 1152930300699869388,
+      "start": 204,
+      "end": 205,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_psychometric_assessment",
+        "tgt_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869388",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:204",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "m": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917533425687593166,
+      "start": 205,
+      "end": 206,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "conscientiousness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593166",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:206"
+    },
+    "m": {
+      "identity": 206,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "critical",
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.8,
+        "gap": -1.7,
+        "stellar_mean": 5.1,
+        "name": "Conscientiousness Deficiency",
+        "description": "disorganized, spontaneous",
+        "label": "SkillGap",
+        "entity_id": "conscientiousness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:206"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917533425687593167,
+      "start": 205,
+      "end": 207,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "numerical_reasoning_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593167",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:207"
+    },
+    "m": {
+      "identity": 207,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "industry_norm": 6.8,
+        "gap": -0.7,
+        "stellar_mean": 6.1,
+        "name": "Numerical Reasoning Deficiency",
+        "description": "Creatives lack financial and business understanding",
+        "label": "SkillGap",
+        "entity_id": "numerical_reasoning_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:207"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917533425687593168,
+      "start": 205,
+      "end": 208,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "operational_leadership_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593168",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:208"
+    },
+    "m": {
+      "identity": 208,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "critical",
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.8,
+        "gap": -2.6,
+        "stellar_mean": 4.2,
+        "name": "Operational Leadership Gap",
+        "description": "weak at execution",
+        "label": "SkillGap",
+        "entity_id": "operational_leadership_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:208"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917533425687593169,
+      "start": 205,
+      "end": 209,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593169",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    },
+    "m": {
+      "identity": 209,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.5,
+        "gap": -1.7,
+        "stellar_mean": 4.8,
+        "name": "Empathy Deficit",
+        "description": "struggles with others' feelings",
+        "label": "SkillGap",
+        "entity_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917533425687593170,
+      "start": 205,
+      "end": 210,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "agreeableness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593170",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:210"
+    },
+    "m": {
+      "identity": 210,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.5,
+        "gap": -1.6,
+        "stellar_mean": 4.9,
+        "name": "Low Agreeableness",
+        "description": "competitive, argumentative, challenging",
+        "label": "SkillGap",
+        "entity_id": "agreeableness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:210"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917533425687593171,
+      "start": 205,
+      "end": 211,
+      "type": "HAS_SKILL_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "narcissism_concern",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917533425687593171",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:211"
+    },
+    "m": {
+      "identity": 211,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 5.5,
+        "gap": 1.9,
+        "stellar_mean": 7.4,
+        "name": "Elevated Narcissistic Tendencies",
+        "description": "attention-seeking, entitlement",
+        "label": "SkillGap",
+        "entity_id": "narcissism_concern",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:211"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 1152935798258008269,
+      "start": 205,
+      "end": 199,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "project_management_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152935798258008269",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "m": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 1155187598071693517,
+      "start": 205,
+      "end": 212,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "financial_literacy_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155187598071693517",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    },
+    "m": {
+      "identity": 212,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Medium-High",
+        "name": "Financial Literacy Training",
+        "challenge": "resistance expected",
+        "label": "TrainingProgramme",
+        "entity_id": "financial_literacy_training",
+        "priority": 3,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917543321292243157,
+      "start": 205,
+      "end": 213,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "conflict_resolution_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917543321292243157",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:213"
+    },
+    "m": {
+      "identity": 213,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Conflict Resolution Training",
+        "label": "TrainingProgramme",
+        "entity_id": "conflict_resolution_training",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:213"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917543321292243159,
+      "start": 205,
+      "end": 215,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "operations_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917543321292243159",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:215"
+    },
+    "m": {
+      "identity": 215,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Operations Training",
+        "focus": "execution",
+        "label": "TrainingProgramme",
+        "entity_id": "operations_training",
+        "priority": "vital",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:215"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917543321292243160,
+      "start": 205,
+      "end": 216,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "coaching_mentoring_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917543321292243160",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:216"
+    },
+    "m": {
+      "identity": 216,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Coaching and Mentoring Training",
+        "label": "TrainingProgramme",
+        "entity_id": "coaching_mentoring_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:216"
+    }
+  },
+  {
+    "n": {
+      "identity": 205,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "size": 120,
+        "roles": "directors, producers, executives",
+        "name": "Stellar Studios Leaders",
+        "label": "Cohort",
+        "entity_id": "stellar_leaders",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205"
+    },
+    "r": {
+      "identity": 6917543321292243161,
+      "start": 205,
+      "end": 217,
+      "type": "REQUIRES_TRAINING",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "stellar_leaders",
+        "tgt_id": "empathy_development_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:6917543321292243161",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:205",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:217"
+    },
+    "m": {
+      "identity": 217,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Empathy Development Training",
+        "label": "TrainingProgramme",
+        "entity_id": "empathy_development_training",
+        "priority": "essential",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:217"
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Medium-High",
+        "name": "Financial Literacy Training",
+        "challenge": "resistance expected",
+        "label": "TrainingProgramme",
+        "entity_id": "financial_literacy_training",
+        "priority": 3,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    },
+    "r": {
+      "identity": 1155182100513554644,
+      "start": 212,
+      "end": 225,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "financial_literacy_training",
+        "tgt_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554644",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Senior Producers",
+        "count": 85,
+        "label": "Cohort",
+        "entity_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Medium-High",
+        "name": "Financial Literacy Training",
+        "challenge": "resistance expected",
+        "label": "TrainingProgramme",
+        "entity_id": "financial_literacy_training",
+        "priority": 3,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    },
+    "r": {
+      "identity": 1152930300699869396,
+      "start": 212,
+      "end": 226,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "financial_literacy_training",
+        "tgt_id": "mid_level_creatives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869396",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:226"
+    },
+    "m": {
+      "identity": 226,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Mid Level Creatives",
+        "count": 420,
+        "label": "Cohort",
+        "entity_id": "mid_level_creatives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:226"
+    }
+  },
+  {
+    "n": {
+      "identity": 212,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Medium-High",
+        "name": "Financial Literacy Training",
+        "challenge": "resistance expected",
+        "label": "TrainingProgramme",
+        "entity_id": "financial_literacy_training",
+        "priority": 3,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    },
+    "r": {
+      "identity": 1152932499723124948,
+      "start": 212,
+      "end": 207,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "financial_literacy_training",
+        "inferred": true,
+        "tgt_id": "numerical_reasoning_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124948",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:207"
+    },
+    "m": {
+      "identity": 207,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "industry_norm": 6.8,
+        "gap": -0.7,
+        "stellar_mean": 6.1,
+        "name": "Numerical Reasoning Deficiency",
+        "description": "Creatives lack financial and business understanding",
+        "label": "SkillGap",
+        "entity_id": "numerical_reasoning_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:207"
+    }
+  },
+  {
+    "n": {
+      "identity": 213,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Conflict Resolution Training",
+        "label": "TrainingProgramme",
+        "entity_id": "conflict_resolution_training",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:213"
+    },
+    "r": {
+      "identity": 1152932499723124949,
+      "start": 213,
+      "end": 210,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "conflict_resolution_training",
+        "inferred": true,
+        "tgt_id": "agreeableness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124949",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:213",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:210"
+    },
+    "m": {
+      "identity": 210,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.5,
+        "gap": -1.6,
+        "stellar_mean": 4.9,
+        "name": "Low Agreeableness",
+        "description": "competitive, argumentative, challenging",
+        "label": "SkillGap",
+        "entity_id": "agreeableness_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:210"
+    }
+  },
+  {
+    "n": {
+      "identity": 214,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Emotional Regulation Training",
+        "label": "TrainingProgramme",
+        "entity_id": "emotional_regulation_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:214"
+    },
+    "r": {
+      "identity": 1152932499723124950,
+      "start": 214,
+      "end": 211,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "emotional_regulation_training",
+        "inferred": true,
+        "tgt_id": "narcissism_concern",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124950",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:214",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:211"
+    },
+    "m": {
+      "identity": 211,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 5.5,
+        "gap": 1.9,
+        "stellar_mean": 7.4,
+        "name": "Elevated Narcissistic Tendencies",
+        "description": "attention-seeking, entitlement",
+        "label": "SkillGap",
+        "entity_id": "narcissism_concern",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:211"
+    }
+  },
+  {
+    "n": {
+      "identity": 215,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Operations Training",
+        "focus": "execution",
+        "label": "TrainingProgramme",
+        "entity_id": "operations_training",
+        "priority": "vital",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:215"
+    },
+    "r": {
+      "identity": 1152932499723124951,
+      "start": 215,
+      "end": 208,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "operations_training",
+        "inferred": true,
+        "tgt_id": "operational_leadership_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124951",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:215",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:208"
+    },
+    "m": {
+      "identity": 208,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "critical",
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.8,
+        "gap": -2.6,
+        "stellar_mean": 4.2,
+        "name": "Operational Leadership Gap",
+        "description": "weak at execution",
+        "label": "SkillGap",
+        "entity_id": "operational_leadership_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:208"
+    }
+  },
+  {
+    "n": {
+      "identity": 217,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Empathy Development Training",
+        "label": "TrainingProgramme",
+        "entity_id": "empathy_development_training",
+        "priority": "essential",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:217"
+    },
+    "r": {
+      "identity": 1152932499723124953,
+      "start": 217,
+      "end": 209,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "empathy_development_training",
+        "inferred": true,
+        "tgt_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124953",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:217",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    },
+    "m": {
+      "identity": 209,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.5,
+        "gap": -1.7,
+        "stellar_mean": 4.8,
+        "name": "Empathy Deficit",
+        "description": "struggles with others' feelings",
+        "label": "SkillGap",
+        "entity_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    }
+  },
+  {
+    "n": {
+      "identity": 218,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Manage Elevated Narcissistic Tendencies",
+        "concern_level": "high",
+        "label": "Objective",
+        "entity_id": "ego_management_objective",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:218"
+    },
+    "r": {
+      "identity": 1152932499723124954,
+      "start": 218,
+      "end": 211,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "ego_management_objective",
+        "tgt_id": "narcissism_concern",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124954",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:218",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:211"
+    },
+    "m": {
+      "identity": 211,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 5.5,
+        "gap": 1.9,
+        "stellar_mean": 7.4,
+        "name": "Elevated Narcissistic Tendencies",
+        "description": "attention-seeking, entitlement",
+        "label": "SkillGap",
+        "entity_id": "narcissism_concern",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:211"
+    }
+  },
+  {
+    "n": {
+      "identity": 219,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Improve Execution Capabilities",
+        "description": "build structure without crushing creative spirit",
+        "label": "Objective",
+        "entity_id": "execution_improvement_objective",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:219"
+    },
+    "r": {
+      "identity": 1152932499723124955,
+      "start": 219,
+      "end": 208,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "execution_improvement_objective",
+        "tgt_id": "operational_leadership_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124955",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:219",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:208"
+    },
+    "m": {
+      "identity": 208,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "severity": "critical",
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.8,
+        "gap": -2.6,
+        "stellar_mean": 4.2,
+        "name": "Operational Leadership Gap",
+        "description": "weak at execution",
+        "label": "SkillGap",
+        "entity_id": "operational_leadership_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:208"
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Culture Transformation Program",
+        "focus": "complementary skills development",
+        "label": "Objective",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    },
+    "r": {
+      "identity": 1152932499723124956,
+      "start": 220,
+      "end": 196,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "culture_transformation_program",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124956",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Culture Transformation Program",
+        "focus": "complementary skills development",
+        "label": "Objective",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    },
+    "r": {
+      "identity": 1157436099350495452,
+      "start": 220,
+      "end": 209,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "src_id": "culture_transformation_program",
+        "tgt_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157436099350495452",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    },
+    "m": {
+      "identity": 209,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "industry_norm": 6.5,
+        "gap": -1.7,
+        "stellar_mean": 4.8,
+        "name": "Empathy Deficit",
+        "description": "struggles with others' feelings",
+        "label": "SkillGap",
+        "entity_id": "empathy_deficit_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:209"
+    }
+  },
+  {
+    "n": {
+      "identity": 220,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Psychometric_Assessment.xlsx",
+        "name": "Culture Transformation Program",
+        "focus": "complementary skills development",
+        "label": "Objective",
+        "entity_id": "culture_transformation_program",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220"
+    },
+    "r": {
+      "identity": 1155184299536810204,
+      "start": 220,
+      "end": 230,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "culture_transformation_program",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810204",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:220",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "r": {
+      "identity": 1152930300699869414,
+      "start": 230,
+      "end": 224,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "culture_transformation",
+        "tgt_id": "executives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152930300699869414",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:224"
+    },
+    "m": {
+      "identity": 224,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Executives",
+        "count": 25,
+        "label": "Cohort",
+        "entity_id": "executives",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:224"
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "r": {
+      "identity": 1155182100513554662,
+      "start": 230,
+      "end": 225,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "culture_transformation",
+        "tgt_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155182100513554662",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    },
+    "m": {
+      "identity": 225,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Senior Producers",
+        "count": 85,
+        "label": "Cohort",
+        "entity_id": "senior_producers",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:225"
+    }
+  },
+  {
+    "n": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "r": {
+      "identity": 1157433900327239910,
+      "start": 230,
+      "end": 227,
+      "type": "TARGETS_COHORT",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "culture_transformation",
+        "tgt_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157433900327239910",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    },
+    "m": {
+      "identity": 227,
+      "labels": [
+        "Cohort"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Department Heads",
+        "count": 180,
+        "label": "Cohort",
+        "entity_id": "department_heads",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:227"
+    }
+  },
+  {
+    "n": {
+      "identity": 256,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "23% average",
+        "name": "Reduce Budget Overruns",
+        "label": "Objective",
+        "entity_id": "reduce_budget_overruns",
+        "analysis_id": "1ed9e84b",
+        "target": "<10%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:256"
+    },
+    "r": {
+      "identity": 1152932499723124992,
+      "start": 256,
+      "end": 232,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "reduce_budget_overruns",
+        "inferred": true,
+        "tgt_id": "budget_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124992",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:256",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:232"
+    },
+    "m": {
+      "identity": 232,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Budget Management Gap",
+        "current_overrun": "23% average",
+        "label": "SkillGap",
+        "entity_id": "budget_management_gap",
+        "target_overrun": "<10%",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:232"
+    }
+  },
+  {
+    "n": {
+      "identity": 257,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "6 weeks average",
+        "name": "Reduce Schedule Delays",
+        "label": "Objective",
+        "entity_id": "reduce_schedule_delays",
+        "analysis_id": "1ed9e84b",
+        "target": "<2 weeks"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:257"
+    },
+    "r": {
+      "identity": 1152932499723124993,
+      "start": 257,
+      "end": 231,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "reduce_schedule_delays",
+        "inferred": true,
+        "tgt_id": "schedule_management_gap",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124993",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:257",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:231"
+    },
+    "m": {
+      "identity": 231,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current_delay": "6 weeks average",
+        "name": "Schedule Management Gap",
+        "label": "SkillGap",
+        "entity_id": "schedule_management_gap",
+        "analysis_id": "1ed9e84b",
+        "target_delay": "<2 weeks"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:231"
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "52%",
+        "name": "Increase Inclusion Scores",
+        "label": "Objective",
+        "entity_id": "increase_inclusion_scores",
+        "analysis_id": "1ed9e84b",
+        "target": "80%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:259"
+    },
+    "r": {
+      "identity": 1152932499723124995,
+      "start": 259,
+      "end": 196,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "increase_inclusion_scores",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124995",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:259",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 259,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "52%",
+        "name": "Increase Inclusion Scores",
+        "label": "Objective",
+        "entity_id": "increase_inclusion_scores",
+        "analysis_id": "1ed9e84b",
+        "target": "80%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:259"
+    },
+    "r": {
+      "identity": 1155184299536810243,
+      "start": 259,
+      "end": 230,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "increase_inclusion_scores",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810243",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:259",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Reduce HR Complaints",
+        "label": "Objective",
+        "entity_id": "reduce_hr_complaints",
+        "analysis_id": "1ed9e84b",
+        "target": "60% reduction"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:260"
+    },
+    "r": {
+      "identity": 1152932499723124996,
+      "start": 260,
+      "end": 196,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "reduce_hr_complaints",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124996",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:260",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 260,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "name": "Reduce HR Complaints",
+        "label": "Objective",
+        "entity_id": "reduce_hr_complaints",
+        "analysis_id": "1ed9e84b",
+        "target": "60% reduction"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:260"
+    },
+    "r": {
+      "identity": 1155184299536810244,
+      "start": 260,
+      "end": 230,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "reduce_hr_complaints",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810244",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:260",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "78%",
+        "name": "Increase Employee Retention",
+        "label": "Objective",
+        "entity_id": "increase_retention",
+        "analysis_id": "1ed9e84b",
+        "target": "88%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:261"
+    },
+    "r": {
+      "identity": 1152932499723124997,
+      "start": 261,
+      "end": 196,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "increase_retention",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124997",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:261",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 261,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "78%",
+        "name": "Increase Employee Retention",
+        "label": "Objective",
+        "entity_id": "increase_retention",
+        "analysis_id": "1ed9e84b",
+        "target": "88%"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:261"
+    },
+    "r": {
+      "identity": 1155184299536810245,
+      "start": 261,
+      "end": 230,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "increase_retention",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810245",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:261",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "3.2",
+        "name": "Improve Glassdoor Rating",
+        "label": "Objective",
+        "entity_id": "improve_glassdoor_rating",
+        "analysis_id": "1ed9e84b",
+        "target": "4.0+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:262"
+    },
+    "r": {
+      "identity": 1152932499723124998,
+      "start": 262,
+      "end": 196,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "improve_glassdoor_rating",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152932499723124998",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:262",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 262,
+      "labels": [
+        "Objective"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "current": "3.2",
+        "name": "Improve Glassdoor Rating",
+        "label": "Objective",
+        "entity_id": "improve_glassdoor_rating",
+        "analysis_id": "1ed9e84b",
+        "target": "4.0+"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:262"
+    },
+    "r": {
+      "identity": 1155184299536810246,
+      "start": 262,
+      "end": 230,
+      "type": "ADDRESSES_GAP",
+      "properties": {
+        "source_doc": "__cross_document__",
+        "src_id": "improve_glassdoor_rating",
+        "inferred": true,
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155184299536810246",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:262",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "amount": "$3.2 million",
+        "name": "FY 2026 Training Budget",
+        "label": "Budget",
+        "entity_id": "fy_2026_budget",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263"
+    },
+    "r": {
+      "identity": 1155179901490299143,
+      "start": 263,
+      "end": 196,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "fy_2026_budget",
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1155179901490299143",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    },
+    "m": {
+      "identity": 196,
+      "labels": [
+        "SkillGap"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Company_Background.docx",
+        "name": "Toxic Culture Legacy",
+        "description": "Need culture transformation toward respect, inclusion, boundaries",
+        "label": "SkillGap",
+        "entity_id": "culture_transformation",
+        "priority": "critical",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:196"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "amount": "$3.2 million",
+        "name": "FY 2026 Training Budget",
+        "label": "Budget",
+        "entity_id": "fy_2026_budget",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263"
+    },
+    "r": {
+      "identity": 1152928101676613895,
+      "start": 263,
+      "end": 199,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "fy_2026_budget",
+        "tgt_id": "project_management_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1152928101676613895",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    },
+    "m": {
+      "identity": 199,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Critical",
+        "name": "Disciplined Project Management Training",
+        "focus": "standardized PM practices without stifling creativity",
+        "label": "TrainingProgramme",
+        "entity_id": "project_management_training",
+        "priority": 1,
+        "approach": "enabling creativity",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:199"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "amount": "$3.2 million",
+        "name": "FY 2026 Training Budget",
+        "label": "Budget",
+        "entity_id": "fy_2026_budget",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263"
+    },
+    "r": {
+      "identity": 1159683501117669639,
+      "start": 263,
+      "end": 212,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "fy_2026_budget",
+        "tgt_id": "financial_literacy_training",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1159683501117669639",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    },
+    "m": {
+      "identity": 212,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "Medium-High",
+        "name": "Financial Literacy Training",
+        "challenge": "resistance expected",
+        "label": "TrainingProgramme",
+        "entity_id": "financial_literacy_training",
+        "priority": 3,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:212"
+    }
+  },
+  {
+    "n": {
+      "identity": 263,
+      "labels": [
+        "Budget"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "amount": "$3.2 million",
+        "name": "FY 2026 Training Budget",
+        "label": "Budget",
+        "entity_id": "fy_2026_budget",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263"
+    },
+    "r": {
+      "identity": 1157431701303984391,
+      "start": 263,
+      "end": 230,
+      "type": "ALLOCATED_TO",
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "src_id": "fy_2026_budget",
+        "tgt_id": "culture_transformation",
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "5:afa003e1-ec1f-4d19-b24a-7cb37598ec28:1157431701303984391",
+      "startNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:263",
+      "endNodeElementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    },
+    "m": {
+      "identity": 230,
+      "labels": [
+        "TrainingProgramme"
+      ],
+      "properties": {
+        "source_doc": "StellarStudios_Questionnaire.json",
+        "urgency": "High",
+        "name": "Toxic Culture Legacy",
+        "label": "TrainingProgramme",
+        "entity_id": "culture_transformation",
+        "priority": 2,
+        "analysis_id": "1ed9e84b"
+      },
+      "elementId": "4:afa003e1-ec1f-4d19-b24a-7cb37598ec28:230"
+    }
+  }
+]

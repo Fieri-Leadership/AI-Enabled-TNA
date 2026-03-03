@@ -1,0 +1,80 @@
+================================================================================
+NEXABRIDGE TECHNOLOGIES PLC
+Company Background & Organisational Overview
+Confidential — Internal Use Only
+Prepared: January 2025
+================================================================================
+
+ABOUT NEXABRIDGE TECHNOLOGIES
+
+NexaBridge Technologies PLC is a mid-sized UK-based software consultancy and managed
+services provider, founded in 2009 and headquartered in Manchester, with additional
+offices in London and Edinburgh. The company employs approximately 420 staff and
+serves clients primarily in the financial services, healthcare, and logistics sectors.
+
+NexaBridge specialises in enterprise digital transformation, cloud migration, and
+bespoke software development. Annual revenue for FY2024 was £47.2 million, representing
+a 14% year-on-year growth.
+
+
+ORGANISATIONAL STRUCTURE
+
+Board of Directors
+  - CEO: Priya Kandiah
+  - CFO: Robert Ashworth
+  - CTO: Marcus Delgado
+  - CPO (Chief People Officer): Sandra Okafor
+
+Divisions:
+  1. Engineering & Delivery (180 staff)
+     - Software Development
+     - DevOps & Cloud Engineering
+     - QA & Testing
+
+  2. Client Services (95 staff)
+     - Account Management
+     - Pre-Sales & Solutions Architecture
+     - Client Success
+
+  3. Data & AI Practice (55 staff)
+     - Data Engineering
+     - Machine Learning & Analytics
+     - Emerging Technologies (incl. GenAI)
+
+  4. Corporate Functions (90 staff)
+     - Finance, Legal, HR, Marketing, IT Operations
+
+
+CURRENT WORKFORCE CHALLENGES
+
+Following a rapid hiring phase in 2022–2023, NexaBridge identified significant skill
+gaps across the organisation, particularly in:
+
+  - Modern cloud-native development (Kubernetes, microservices)
+  - Data literacy and AI fluency across non-technical roles
+  - Leadership and people management skills for newly promoted team leads
+  - Client communication and commercial acumen in the Engineering division
+  - Agile at scale (SAFe framework adoption is underway)
+
+The CPO, Sandra Okafor, has mandated a structured Learning & Development initiative
+for 2025, with a budget of £380,000 allocated for external training and consultancy.
+
+The company has engaged Elevate Learning Consultants Ltd as its training partner
+to conduct a Training Needs Analysis (TNA) and design a bespoke learning pathway
+for three priority cohorts:
+
+  Cohort A — Engineering & Delivery leads and senior engineers (approx. 60 people)
+  Cohort B — Data & AI Practice staff across all levels (approx. 55 people)
+  Cohort C — Client Services and Corporate managers (approx. 40 people)
+
+TARGET OUTCOMES (as stated by CPO Sandra Okafor):
+
+  1. Reduce dependency on contract staff by upskilling permanent engineers in cloud tech.
+  2. Enable all staff to understand and responsibly use AI tools by Q3 2025.
+  3. Improve client satisfaction scores (NPS) from current 42 to 60+ by end of 2025.
+  4. Develop 12 high-potential employees for senior leadership roles over 18 months.
+  5. Achieve Investors in People Gold accreditation by December 2025.
+
+================================================================================
+END OF DOCUMENT
+================================================================================

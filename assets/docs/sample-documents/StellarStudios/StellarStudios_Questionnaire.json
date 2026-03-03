@@ -1,0 +1,91 @@
+{
+  "client": "Stellar Studios Entertainment",
+  "completed_by": "James Kim, Head of HR & Culture",
+  "date": "2026-01-20",
+  "responses": {
+    "top_training_priorities": [
+      {
+        "priority": 1,
+        "topic": "Project Management for Creative Professionals",
+        "description": "Our productions consistently run over budget and behind schedule. Average overrun: 23% budget, 6 weeks delay. We have brilliant creative talent but lack discipline in planning, tracking, resource allocation. Problem: Creative people resist 'corporate' PM practices - see it as bureaucracy that kills creativity. Need: Project management adapted for creative industry - structure without stifling innovation. Target: 450 producers, production managers, department heads.",
+        "urgency": "Critical - CEO mandate to improve within 6 months or heads roll"
+      },
+      {
+        "priority": 2,
+        "topic": "Culture Transformation - Respect & Inclusion",
+        "description": "Entertainment industry has toxic legacy - power abuse, sexual harassment, bullying, impossible hours, exploitation. Board demanding culture change post-#MeToo. Current culture: hierarchical, ego-driven, 'creative genius' excuses bad behavior, long hours worn as badge of honor. Need: Transform to respectful, inclusive, sustainable culture while maintaining creative excellence. This is sensitive - people defensive, resistant, some deny problems exist. Need expert facilitators who understand entertainment industry dynamics.",
+        "urgency": "High - regulatory pressure, legal liability, talent retention"
+      },
+      {
+        "priority": 3,
+        "topic": "Business Acumen for Creatives",
+        "description": "Writers, directors, producers are artists who resist business thinking. Don't understand P&Ls, ROI, business strategy. Creates friction with finance team and poor business decisions. Example: Director spent $2M on single scene that ended up cut in edit - didn't understand budget implications. Need: Financial literacy and business fundamentals tailored for creative professionals. Frame as 'creative freedom requires business success' not 'abandon art for commerce'.",
+        "urgency": "Medium-High - impacts profitability and sustainability"
+      }
+    ],
+    "current_training": {
+      "existing_programs": [
+        "Anti-harassment training (mandatory, annual) - compliance-focused, checkbox",
+        "Safety training for set operations - well-received, practical",
+        "Software training (editing tools, VFX) - vendor-provided, technical",
+        "Leadership development - NONE except external conferences (sporadic)"
+      ],
+      "what_works": "Technical/software training works well - hands-on, immediate application. Safety training effective because clearly protects people.",
+      "what_doesn't": "Anti-harassment training is ignored - seen as CYA legal requirement. No behavior change. Generic leadership programs from other industries don't resonate - entertainment is unique culture."
+    },
+    "audience_breakdown": {
+      "executives": {
+        "count": 25,
+        "needs": "Strategic leadership, change management, board-level communication"
+      },
+      "senior_producers": {
+        "count": 85,
+        "needs": "Advanced PM, team leadership, business strategy"
+      },
+      "mid_level_creatives": {
+        "count": 420,
+        "needs": "Project management basics, collaboration, business fundamentals"
+      },
+      "department_heads": {
+        "count": 180,
+        "needs": "People management, budgeting, cross-functional leadership"
+      },
+      "individual_contributors": {
+        "count": 1090,
+        "needs": "Professional skills, technology, collaboration"
+      },
+      "freelance_contractors": {
+        "count": 1400,
+        "needs": "Company culture orientation, tools/systems, safety"
+      }
+    },
+    "success_metrics": {
+      "project_performance": "Reduce budget overruns from 23% average to <10%, Reduce schedule delays from 6 weeks avg to <2 weeks, Increase on-time/on-budget delivery rate from 32% to 75%",
+      "culture_indicators": "Increase inclusion survey scores from 52% to 80%, Reduce HR complaints by 60%, Increase employee retention from 78% to 88%, Improve Glassdoor rating from 3.2 to 4.0+",
+      "business_results": "Improve production efficiency (cost per hour of content) by 20%, Increase streaming content output by 40% without proportional cost increase, Maintain or improve creative quality metrics (awards, reviews, audience scores)"
+    },
+    "budget_timeline": {
+      "budget": "$3.2 million for FY 2026",
+      "timeline": "Design: Feb-Mar 2026, Pilot: Apr-May 2026, Full rollout: Jun-Nov 2026",
+      "constraints": "Production schedules vary - people on set for months then off. Need flexible delivery. Peak production season is fall/winter. Contractors only available between projects."
+    },
+    "special_considerations": {
+      "entertainment_culture": "Egos are real - famous directors, award-winning writers, celebrity actors. Training must respect their expertise and not feel condescending.",
+      "union_environment": "Multiple unions (DGA, WGA, SAG-AFTRA, IATSE). Union rules impact scheduling, some training may need negotiation.",
+      "creative_resistance": "Many creatives deeply skeptical of 'corporate' training - see it as antithetical to art. Must be positioned carefully.",
+      "project_based_work": "People assembled for projects then disband. Knowledge doesn't transfer well between projects. Need to build organizational capability, not just individual.",
+      "24_7_production": "Sets run around the clock. Office-hours training doesn't work for many employees. Need flexible access.",
+      "confidentiality": "Projects are highly confidential (NDAs, competitive advantage). Training examples must respect this."
+    },
+    "questions_for_consultant": [
+      "Have you worked with entertainment/media companies before? Understand our unique culture?",
+      "How do you make PM training feel relevant to creatives vs corporate bureaucracy?",
+      "What's your approach to culture change in industries with toxic legacy?",
+      "Can you work with our complex union environment?",
+      "How do you train project-based workforce that's constantly assembling/disbanding?",
+      "What's your philosophy on work-life balance in industry known for long hours?",
+      "How do you measure behavior change vs just knowledge transfer?",
+      "Can you scale to train 1,400 contractors efficiently?"
+    ]
+  }
+}
