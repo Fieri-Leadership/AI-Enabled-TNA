@@ -1,0 +1,125 @@
+{
+  "discovery_call_notes": {
+    "meeting_details": {
+      "date": "2026-01-22",
+      "duration": "120 minutes",
+      "attendees": [
+        {
+          "name": "Marcus Williams",
+          "title": "CHRO",
+          "company": "VitalCure"
+        },
+        {
+          "name": "Dr. Elizabeth Chen",
+          "title": "CEO",
+          "company": "VitalCure"
+        },
+        {
+          "name": "Jennifer Moore",
+          "title": "VP Clinical Operations",
+          "company": "VitalCure"
+        },
+        {
+          "name": "Sarah Martinez",
+          "title": "Senior Learning Consultant",
+          "company": "Training Solutions Group"
+        },
+        {
+          "name": "Dr. Robert Kim",
+          "title": "Pharma Industry Specialist",
+          "company": "Training Solutions Group"
+        }
+      ]
+    },
+    "key_discussion_points": [
+      {
+        "topic": "FDA Inspection Context",
+        "notes": "November 2025 inspection found documentation inconsistencies in 3 depts. No major violations (Form 483 observations only). Internal audit revealed 23% of batch records had minor deviations. Root cause: inconsistent training, procedural drift, lack of ownership culture. CEO very concerned about reputational risk. Need rapid remediation - pilot compliance program by March 31st deadline. Suggestion from Jennifer: Focus on 'quality mindset' not just procedures.",
+        "urgency": "critical",
+        "stakeholder_sentiment": "anxious but committed"
+      },
+      {
+        "topic": "Leadership Development Challenges",
+        "notes": "145 people managers, 60% promoted in last 2 years. Many are former bench scientists - brilliant technically but never managed people before. One director said 'I can cure cancer but don't know how to fire someone'. Engagement survey showed 58% satisfaction, driven by poor manager relationships. High turnover under 'accidental managers' - 18% in first 90 days. Need: structured leadership framework, practical skills, ongoing coaching support. Marcus mentioned resistance from some senior scientists who see management as 'lesser work'. Need to reframe leadership as valuable expertise.",
+        "urgency": "high",
+        "stakeholder_sentiment": "frustrated but hopeful"
+      },
+      {
+        "topic": "Post-Acquisition Integration Issues",
+        "notes": "NeuraPharma acquired 8 months ago - integration not going well. Two distinct cultures: VitalCure (fast-moving, commercial focus) vs NeuraPharma (academic, research-focused). Tensions visible in meetings - former NeuraPharma employees feel 'absorbed' not 'integrated'. R&D roadmap conflicts. Different decision-making styles causing delays. Elizabeth shared: 'We bought NeuraPharma for their pipeline and talent, but we're losing both because we can't work together'. Need cross-company team interventions, shared identity building, conflict resolution skills. Timeline: Must show progress before Q2 earnings call (investor concerns about integration).",
+        "urgency": "high",
+        "stakeholder_sentiment": "concerned about failure"
+      },
+      {
+        "topic": "Cross-Functional Silos",
+        "notes": "R&D and Commercial don't collaborate well - different languages, priorities, incentives. Product development delays average 6 months longer than industry benchmarks. Handoffs between departments are problematic - information lost, assumptions misaligned. One example: Commercial promised customer feature that R&D said was infeasible (never consulted). Need improved cross-functional project management, shared accountability frameworks, better communication protocols. CEO wants structured 'integration teams' on major projects.",
+        "urgency": "medium",
+        "stakeholder_sentiment": "resigned to ongoing problem"
+      },
+      {
+        "topic": "Organizational Culture Evolution",
+        "notes": "Company culture is shifting from scrappy startup to mature pharmaceutical player - some employees struggling with transition. More process, more governance, less autonomy (necessary for regulatory compliance but feels restrictive). Legacy employees nostalgic for 'old days' when things moved faster. Need change management support, help employees see benefits of maturity while preserving innovation spirit. Marcus: 'We need to be grown-up without being bureaucratic'.",
+        "urgency": "medium",
+        "stakeholder_sentiment": "mixed - some excited, some resistant"
+      }
+    ],
+    "stakeholder_dynamics": {
+      "CEO_Elizabeth_Chen": "Very engaged, asks tough questions. Concerned about board perception and investor confidence. Willing to invest in training but expects measurable results. Wants personal involvement to signal priority. Potential champion but also impatient for results. Quote: 'I don't want theoretical training - I want behavior change we can see and measure.'",
+      "CHRO_Marcus_Williams": "Project sponsor. Smart, strategic, but L&D team under-resourced. Worried about capacity to execute. Wants partnership approach, not just vendor delivery. Concerned about executive skepticism. Looking for early wins to build momentum. Very collaborative - will be good partner. Quote: 'Help me build capability, don't just deliver programs.'",
+      "VP_Clinical_Jennifer_Moore": "Passionate about compliance training - sees it as patient safety issue, not checkbox exercise. Has clear vision for 'quality culture'. Well-respected across organization. Could be powerful advocate for training if we get compliance piece right. Skeptical of typical corporate training but open-minded. Quote: 'Our people care deeply about patients - help us connect training to that purpose.'",
+      "Unspoken_tension": "Some executives not present on call - Marcus mentioned VP Manufacturing was 'too busy' and SVP R&D 'had scheduling conflict'. Possible resistance or low priority for them. Need to engage skeptics early."
+    },
+    "training_priorities_refined": [
+      {
+        "priority": 1,
+        "program": "Compliance & Quality Excellence",
+        "target_audience": "1,100 employees in R&D, Clinical, Manufacturing",
+        "timeline": "Pilot by March 31, full rollout May-August 2026",
+        "success_criteria": "95%+ FDA audit score, 30% reduction in quality deviations, cultural shift from compliance to ownership",
+        "custom_requirements": "Pharma-specific examples, connection to patient safety, engaging delivery, board reporting by July"
+      },
+      {
+        "priority": 2,
+        "program": "Leadership Foundations",
+        "target_audience": "145 people managers (all levels)",
+        "timeline": "Design Feb-March, pilot April-May, full rollout June-Sept 2026",
+        "success_criteria": "Manager effectiveness scores improve 20+ points, engagement scores to 75%+, voluntary turnover under 12%",
+        "custom_requirements": "Respect scientific expertise, practical not theoretical, peer learning cohorts, executive involvement, ongoing coaching support"
+      },
+      {
+        "priority": 3,
+        "program": "Cultural Integration & Collaboration",
+        "target_audience": "All employees, focus on interface teams",
+        "timeline": "Ongoing April-December 2026",
+        "success_criteria": "Cross-functional project on-time delivery 80%+, unified employee experience, reduced tensions",
+        "custom_requirements": "Merge VitalCure/NeuraPharma identities, build trust, conflict resolution, cross-functional teaming"
+      }
+    ],
+    "logistical_considerations": {
+      "budget": "$2.4M approved, $800K contingency available if pilot succeeds",
+      "geographic_distribution": "60% US (Cambridge MA, San Diego, New Jersey), 13% Europe (Basel), scattered others",
+      "scheduling_constraints": "Avoid August (Basel shutdown), December holidays, manufacturing 24/7 ops requires creative scheduling",
+      "technology_infrastructure": "Current LMS is poor (replacing Q4 2026), prefer mobile-accessible content, need offline capability for manufacturing floor",
+      "language_needs": "Primarily English, some Basel employees prefer German (not required, but nice to have)"
+    },
+    "risks_and_concerns": [
+      "Timeline is aggressive - March 31 pilot for compliance training is tight",
+      "Executive skepticism could undermine participation",
+      "Manufacturing operational constraints may limit attendance",
+      "Change fatigue - organization has been through a lot of change recently",
+      "Measurement systems aren't robust - hard to prove ROI",
+      "Budget limitations if needs expand beyond current scope"
+    ],
+    "next_steps": [
+      "TSG to develop detailed proposal by February 5, 2026",
+      "Schedule follow-up with VP Manufacturing and SVP R&D (skeptics)",
+      "Conduct sample interviews with frontline managers and employees (Feb 12-16)",
+      "Present preliminary design to Executive Committee (Feb 28)",
+      "Begin pilot cohort recruitment for compliance training (March 1)"
+    ],
+    "consultant_observations": {
+      "by": "Sarah Martinez, Senior Learning Consultant",
+      "observations": "VitalCure is at inflection point - growing pains of transition from startup to mature company, compounded by acquisition integration challenges. Leadership genuinely committed but also anxious for quick results. Need to balance speed with quality. FDA compliance issue is real driver (regulatory pressure) but also catalyst for broader cultural transformation. Recommend starting with compliance pilot as 'proof point' - if we can make compliance training engaging and impactful, we'll earn credibility for bigger leadership/culture work. Key success factor will be engaging the skeptics (Manufacturing, some of R&D). Need executive alignment before launch. Culture is mix of brilliant scientists (strengths: intelligent, mission-driven, curious) and challenges (insular, resistant to 'soft skills', busy/overworked). Training must be sophisticated enough to earn their respect. This is do-able but requires thoughtful customization and strong facilitation. Budget is adequate if we're focused. Timeline is aggressive but feasible if we prioritize ruthlessly."
+    }
+  }
+}

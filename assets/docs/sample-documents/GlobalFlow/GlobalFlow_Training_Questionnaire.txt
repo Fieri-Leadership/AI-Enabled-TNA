@@ -1,0 +1,229 @@
+
+================================================================================
+GlobalFlow Logistics - Training Needs Questionnaire
+================================================================================
+Contact: Marcus Thompson, Chief Human Resources Officer
+Date: January 17, 2026
+Email: m.thompson@globalflow.com
+
+================================================================================
+Q1: What are your top training priorities?
+================================================================================
+
+PRIORITY 1: AUTOMATION & RESKILLING PROGRAM
+-------------------------------------------
+Context: We're deploying automation across 80 warehouses over next 24 months. 
+Autonomous mobile robots, automated picking systems, AI-powered route optimization.
+Great for efficiency, but 2,000+ warehouse workers have jobs at risk.
+
+Current roles disappearing:
+- Manual picking/packing
+- Forklift operation (being automated)
+- Basic inventory management
+
+New roles emerging:
+- Robot technician/maintenance
+- Automation operator
+- Data analyst
+- Quality control specialist
+
+CHALLENGE: Our workforce is blue-collar, many didn't complete high school, some are immigrants
+with language barriers. How do we reskill them for tech roles? Can't just fire them - ethical
+obligation AND labor relations nightmare (union contracts).
+
+Need: Comprehensive reskilling program that meets people where they are. Basic digital literacy,
+technical training for robot maintenance, career pathway planning. Also need change management
+- people are scared and resistant.
+
+Timeline: URGENT. First automated warehouse goes live June 2026. Need people trained by May.
+
+
+PRIORITY 2: SAFETY CULTURE TRANSFORMATION
+------------------------------------------
+We have safety PROBLEM. 342 OSHA recordable incidents last year (43 serious injuries, 1 fatality).
+Insurance costs up $18M. Regulators threatening fines. Morally: we're hurting our people.
+
+Root causes (from investigation):
+- Production pressure overrides safety (supervisors say "go fast, we're behind")
+- Inadequate training (4-hour orientation then "figure it out")
+- Near-miss reporting punished rather than encouraged
+- Shortcuts and workarounds become norm
+- "That's how we've always done it" culture
+- Language barriers (instructions in English, 40% speak Spanish/Vietnamese/Polish)
+
+Need: Not just more safety training - need culture change. Leaders must prioritize safety over
+speed. Workers must feel safe reporting hazards. Systems thinking (not blaming individuals).
+
+This is CEO's #1 priority. Board demanded action. We MUST show improvement.
+
+
+PRIORITY 3: DIGITAL ADOPTION ACROSS WORKFORCE
+----------------------------------------------
+We've invested $280M in technology: new WMS, TMS, real-time tracking, mobile apps, analytics.
+Problem: people aren't using it properly (or at all).
+
+Example issues:
+- Drivers still using paper logs instead of mobile app
+- Warehouse workers scanning wrong barcodes (causing inventory errors)
+- Customer service reps can't navigate new CRM (frustrated customers)
+- Managers don't understand dashboards (making decisions on gut not data)
+
+Workforce demographics: Average age 48, many in roles 15+ years, comfortable with old systems.
+Change fatigue from constant "new systems." Digital literacy varies wildly.
+
+Need: Digital skills training, change management, ongoing support. Different approaches for
+different roles (drivers need different training than office workers).
+
+
+SECONDARY PRIORITIES:
+- Leadership development for frontline supervisors (32% turnover in some sites)
+- Consultative selling for account managers (clients want strategic partners)
+- Sustainability competencies (green logistics, carbon reduction)
+- Customer service excellence (NPS currently 42, industry avg 58)
+- Cross-cultural communication (45 countries, communication breakdowns common)
+
+================================================================================
+Q2: What prompted training investment NOW?
+================================================================================
+
+Multiple burning platforms:
+1. Automation rollout - can't delay, competitive pressure
+2. Safety crisis - regulatory pressure, moral imperative, cost impact
+3. Labor shortage - can't hire, must develop existing workforce
+4. Client demands - want strategic capabilities we don't have
+5. Union negotiations upcoming - workforce development is priority issue
+6. ESG pressure from investors - need sustainability skills
+7. Technology ROI at risk - $280M investment not delivering because adoption failure
+
+Board approved $12M training budget (up from $3M last year). CEO said "training is not expense,
+it's survival strategy."
+
+================================================================================
+Q3: What are unique challenges of training your workforce?
+================================================================================
+
+FRONTLINE WORKFORCE CHALLENGES:
+- Language barriers: 32 languages spoken, English proficiency varies
+- Education levels: Many haven't finished high school
+- Digital literacy: Some have never used computer
+- Shift work: 24/7 operations, hard to schedule training
+- Geographic dispersion: 280 facilities across 45 countries
+- High turnover: 32% annual in some locations (constantly training new people)
+- Physical demands: People exhausted after shift, not receptive to training
+
+LOGISTICAL CONSTRAINTS:
+- Can't stop operations for training (continuous operations)
+- Budget for backfill/overtime limited
+- Technology infrastructure varies by country (some sites have poor internet)
+- Time zones make live training difficult
+- Travel costs prohibitive for in-person training at scale
+
+CULTURAL FACTORS:
+- Warehouse culture is action-oriented, skeptical of "classroom" training
+- Previous training initiatives failed (people cynical)
+- Labor-management tension in some facilities (union distrust)
+- Generational differences (young workers vs. 20-year veterans)
+- National culture differences in learning preferences and communication styles
+
+================================================================================
+Q4: What training approaches have you tried before? What worked/didn't?
+================================================================================
+
+WHAT DIDN'T WORK:
+✗ E-learning modules (low completion, people clicked through without learning)
+✗ Long classroom sessions (people fall asleep, can't apply to work)
+✗ One-size-fits-all global programs (didn't account for local differences)
+✗ Training divorced from work (learned concepts, didn't change behavior)
+✗ English-only materials (excluded non-English speakers)
+
+WHAT WORKED:
+✓ Hands-on, practical training on actual equipment
+✓ Peer-to-peer learning (experienced workers teaching new hires)
+✓ Short, focused sessions (15-20 minutes)
+✓ Visual demonstrations (showing, not just telling)
+✓ Multi-language support
+✓ Immediate application (practice right away on the job)
+✓ Recognition and rewards for skill development
+
+================================================================================
+Q5: How will you measure training success?
+================================================================================
+
+AUTOMATION/RESKILLING:
+- 80% of at-risk workers successfully transition to new roles
+- Automated warehouse productivity reaches 95% of target within 3 months
+- Voluntary turnover during transition <15%
+- Worker confidence in using new technology increases (survey)
+
+SAFETY:
+- OSHA recordable incident rate decreases 50% (to <180 incidents annually)
+- Near-miss reporting increases 200% (indicator of better culture)
+- Safety audit scores improve from 72% to 90%+
+- Insurance premiums stabilize or decrease
+- Zero fatalities
+
+DIGITAL ADOPTION:
+- System utilization rates increase to 90%+ (currently 60-70%)
+- Data accuracy improves (fewer scanning errors, complete records)
+- User satisfaction with technology increases
+- Productivity gains from technology realized (15% efficiency improvement target)
+
+LEADERSHIP:
+- Supervisor turnover decreases from 32% to <20%
+- Employee engagement scores improve in facilities with trained leaders
+- Internal promotion rate increases
+
+BUSINESS RESULTS:
+- Customer NPS improves from 42 to 60+
+- Operational efficiency (cost per package) improves 12%
+- Revenue retention improves to 95%+
+- Employee retention improves across all facilities
+
+================================================================================
+Q6: Budget and timeline?
+================================================================================
+
+Budget: $12 million for FY 2026
+Breakdown:
+- Automation/reskilling: $4.5M
+- Safety transformation: $3M
+- Digital adoption: $2.5M
+- Leadership development: $1.5M
+- Other initiatives: $500K
+
+Timeline:
+Q1 2026: Design and pilot programs
+Q2 2026: Full rollout begins (safety and automation priority)
+Q3-Q4 2026: Scale globally, measure results
+2027: Sustain and improve
+
+Critical dates:
+- First automated warehouse launch: June 2026 (training must be complete)
+- Union negotiations: September 2026 (want to show workforce investment)
+- Board safety review: July 2026 (must show incident reduction)
+
+================================================================================
+Q7: Additional context?
+================================================================================
+
+We're blue-collar logistics company trying to become high-tech leader. Workforce transformation
+is existential challenge. We MUST upskill our people or we won't survive next decade.
+
+This is more than training - it's about respecting and investing in our people. Many have worked
+here 15, 20, 25 years. They built this company. We owe them opportunity to grow with us.
+
+Also pragmatic: labor shortage means we can't hire our way out. Must develop from within.
+
+Need training partner who understands:
+- Blue-collar workforce (not white-collar corporate)
+- Global/multicultural context
+- Logistics/supply chain industry
+- Change management in operational environments
+- Technology adoption challenges
+- Safety culture transformation
+- Adult learning for varied education levels
+
+This is hard. But it's right thing to do AND business imperative.
+
+Marcus Thompson, CHRO
+GlobalFlow Logistics
